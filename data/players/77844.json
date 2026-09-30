@@ -1,0 +1,84 @@
+{
+  "person_id": 77844,
+  "name": "VATANEN Eevi",
+  "first_name": "Eevi",
+  "last_name": "VATANEN",
+  "player_ids": [
+    60417403
+  ],
+  "link_ids": [
+    "104212046041740384479809",
+    "538149766041740323243492"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2706353,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368630079,
+      "team": "K-Espoo Tytöt IV",
+      "opponent_id": 1368627457,
+      "opponent": "KJT Haukat Orange",
+      "home_away": "away",
+      "jersey_number": "82",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2706349,
+      "date": "18.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368630079,
+      "team": "K-Espoo Tytöt IV",
+      "opponent_id": 1368628857,
+      "opponent": "HYRI White",
+      "home_away": "home",
+      "jersey_number": "82",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2706353,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368630079,
+      "team": "K-Espoo Tytöt IV",
+      "opponent": "KJT Haukat Orange",
+      "game_label": "KJT Haukat Orange - K-Espoo Tytöt IV",
+      "period": 3,
+      "game_time": "43:14",
+      "raw_event_index": 14,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

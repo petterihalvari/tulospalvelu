@@ -1,0 +1,79 @@
+{
+  "person_id": 126751,
+  "name": "SIDORENKOV Gleb",
+  "first_name": "Gleb",
+  "last_name": "SIDORENKOV",
+  "player_ids": [
+    61100625
+  ],
+  "link_ids": [
+    "413013196110062581302407",
+    "681927606110062531414248",
+    "952574156110062573722016"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707411,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368627446,
+      "team": "Vipers",
+      "opponent_id": 1368628856,
+      "opponent": "HYRI Black",
+      "home_away": "away",
+      "jersey_number": "51",
+      "role": "Puolustaja",
+      "role_abbrv": "P",
+      "captain": ""
+    },
+    {
+      "game_id": 2707412,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368627446,
+      "team": "Vipers",
+      "opponent_id": 1368624960,
+      "opponent": "K-Vantaa",
+      "home_away": "away",
+      "jersey_number": "51",
+      "role": "Puolustaja",
+      "role_abbrv": "P",
+      "captain": ""
+    },
+    {
+      "game_id": 2707416,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368627446,
+      "team": "Vipers",
+      "opponent_id": 1368627455,
+      "opponent": "KJT Haukat Blue",
+      "home_away": "away",
+      "jersey_number": "51",
+      "role": "Puolustaja",
+      "role_abbrv": "P",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

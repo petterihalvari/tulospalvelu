@@ -1,0 +1,98 @@
+{
+  "person_id": 79398,
+  "name": "TUURI Miro",
+  "first_name": "Miro",
+  "last_name": "TUURI",
+  "player_ids": [
+    60479617
+  ],
+  "link_ids": [
+    "128748176047961724249493",
+    "224118546047961772069621",
+    "596771936047961772723994",
+    "608813426047961782195639"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713723,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368630127,
+      "team": "Peliitat",
+      "opponent_id": 1368628855,
+      "opponent": "HYRI Yellow",
+      "home_away": "away",
+      "jersey_number": "35",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713727,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368630127,
+      "team": "Peliitat",
+      "opponent_id": 1368629992,
+      "opponent": "Hunters",
+      "home_away": "away",
+      "jersey_number": "35",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713729,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368630127,
+      "team": "Peliitat",
+      "opponent_id": 1368625523,
+      "opponent": "K-Espoo V",
+      "home_away": "away",
+      "jersey_number": "35",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713732,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368630127,
+      "team": "Peliitat",
+      "opponent_id": 1368625827,
+      "opponent": "HAKI White",
+      "home_away": "home",
+      "jersey_number": "35",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

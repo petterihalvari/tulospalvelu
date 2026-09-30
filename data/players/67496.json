@@ -1,0 +1,41 @@
+{
+  "person_id": 67496,
+  "name": "NIKULA Aleksi",
+  "first_name": "Aleksi",
+  "last_name": "NIKULA",
+  "player_ids": [
+    60317549
+  ],
+  "link_ids": [
+    "948769886031754997488366"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721422,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 65632771,
+      "team": "Hunters",
+      "opponent_id": 1273481056,
+      "opponent": "K-Espoo IV",
+      "home_away": "away",
+      "jersey_number": "84",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

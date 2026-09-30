@@ -1,0 +1,879 @@
+{
+  "GamesUpdate": [
+    {
+      "Id": 2707418,
+      "SubSerieID": 1476,
+      "SubSerieName": "U15 Sininen alkusarja, lohko 1",
+      "LevelName": "U15 Sininen",
+      "LevelID": 93,
+      "StartDate": "27.09.2026",
+      "StartTime": "11:20:00",
+      "GameTime": 3600,
+      "Arena": "Kivikko 2",
+      "RinkLatitude": "60.23785802031888",
+      "RinkLongitude": "25.052009739922397",
+      "LiveURL": "",
+      "LiveFeedSource": 4,
+      "OnlyStreamStorage": 1,
+      "StreamSources": [
+        {
+          "Id": 1,
+          "SourceName": "Leijonat TV",
+          "StreamUrl": null,
+          "LogoUrl": "https://d30yuo8vvcrfpu.cloudfront.net/stream-source-logos/Ru5Z0w_uidI.png",
+          "IsDefault": true
+        }
+      ],
+      "Spectators": 21,
+      "HomeTeam": {
+        "Name": "HIFK II",
+        "Goals": 1,
+        "Image": "100038532.png",
+        "Id": 1368625400,
+        "AssId": 100038532
+      },
+      "AwayTeam": {
+        "Name": "Rigas HS",
+        "Goals": 13,
+        "Image": "teams/1368626970.png",
+        "Id": 1368626970,
+        "AssId": 50024073
+      },
+      "GameStatus": 2,
+      "FinishedType": 1,
+      "GameRules": "60;0;3;20;0;0;0;5;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;2;0;5;0;0;0;0",
+      "Lang": [
+        {
+          "Langname": "FI",
+          "Flag": "fi",
+          "FlagPath": "fi.png"
+        },
+        {
+          "Langname": "EN",
+          "Flag": "en",
+          "FlagPath": "en.png"
+        }
+      ],
+      "RosterType": 0
+    }
+  ],
+  "GameLogsUpdate": [
+    {
+      "Type": "GK_start",
+      "TeamId": 1368625400,
+      "Period": 1,
+      "PlayerLinkID": "6187064810003440936307215",
+      "GoalkeeperJersey": 1,
+      "GoalkeeperName": "RISU Kasper",
+      "PreviousPlayerLinkID": "792081910000000021156885",
+      "PreviousGoalkeeperJersey": 0,
+      "PreviousGoalkeeperName": " ",
+      "GameTime": 0
+    },
+    {
+      "Type": "GK_start",
+      "TeamId": 1368626970,
+      "Period": 1,
+      "PlayerLinkID": "399606756109387850479982",
+      "GoalkeeperJersey": 90,
+      "GoalkeeperName": "GENERALOVS Dmitrijs",
+      "PreviousPlayerLinkID": "900904500000000010586483",
+      "PreviousGoalkeeperJersey": 0,
+      "PreviousGoalkeeperName": " ",
+      "GameTime": 0
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625400,
+      "Period": 1,
+      "PlayerLinkID": "122042016044520822631613",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 132,
+      "SufferLinkID": "690820936044520865063743",
+      "Jersey": 20,
+      "Name": "GRANHOLM Rasmus",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 20,
+      "SuffererNames": "GRANHOLM Rasmus",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_11"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 373,
+      "Key": "Goal_27",
+      "ScorerLinkID": "726436056109388312391982",
+      "Ass1LinkID": "555467906101931867423507",
+      "Ass2LinkID": "880249706088001513993761",
+      "ScorerJersey": 61,
+      "ScorerName": "JEPISOVS Artjoms",
+      "FirstAssistJersey": 83,
+      "FirstAssistName": "POLIS Markuss",
+      "SecondAssistJersey": 95,
+      "SecondAssistName": "BONDARENKO Andrejs",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 0,
+      "AwayTeamGoals": 1,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626970,
+      "Period": 1,
+      "PlayerLinkID": "599224646109387791293444",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 544,
+      "SufferLinkID": "165904086109387755343643",
+      "Jersey": 78,
+      "Name": "GAUMIGS Davids",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 78,
+      "SuffererNames": "GAUMIGS Davids",
+      "PenaltyReasonsFI": "Estäminen",
+      "PenaltyReasonsEN": "Interference on Skater",
+      "PenaltyFaultCodes": 17,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "EST",
+      "Key": "Penalty_42"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625400,
+      "Period": 1,
+      "PlayerLinkID": "818338596036283435049483",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 701,
+      "SufferLinkID": "494235916036283474674294",
+      "Jersey": 28,
+      "Name": "KORKOLA Justus",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 28,
+      "SuffererNames": "KORKOLA Justus",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_46"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 712,
+      "Key": "Goal_50",
+      "ScorerLinkID": "971596216101779859343272",
+      "Ass1LinkID": "249125586109388563740616",
+      "Ass2LinkID": "117454006109389084925846",
+      "ScorerJersey": 7,
+      "ScorerName": "OBUKS Martins",
+      "FirstAssistJersey": 8,
+      "FirstAssistName": "JURANS Aleksandrs",
+      "SecondAssistJersey": 97,
+      "SecondAssistName": "LAGZDINS Gustavs",
+      "GoalType": "YV",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 0,
+      "AwayTeamGoals": 2,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 901,
+      "Key": "Goal_64",
+      "ScorerLinkID": "586472716109389072709575",
+      "Ass1LinkID": "836634336109387765705861",
+      "Ass2LinkID": "197247826101779867086335",
+      "ScorerJersey": 97,
+      "ScorerName": "LAGZDINS Gustavs",
+      "FirstAssistJersey": 78,
+      "FirstAssistName": "GAUMIGS Davids",
+      "SecondAssistJersey": 7,
+      "SecondAssistName": "OBUKS Martins",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 0,
+      "AwayTeamGoals": 3,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1155,
+      "Key": "Goal_76",
+      "ScorerLinkID": "637250346101779862620084",
+      "Ass1LinkID": "218808206109387774814004",
+      "Ass2LinkID": "224729816109388495177668",
+      "ScorerJersey": 7,
+      "ScorerName": "OBUKS Martins",
+      "FirstAssistJersey": 78,
+      "FirstAssistName": "GAUMIGS Davids",
+      "SecondAssistJersey": 75,
+      "SecondAssistName": "JUGANS Martins",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 0,
+      "AwayTeamGoals": 4,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "GK_change",
+      "TeamId": 1368626970,
+      "Period": 2,
+      "PlayerLinkID": "634019886109388792784547",
+      "GoalkeeperJersey": 60,
+      "GoalkeeperName": "KALNINS Magnuss",
+      "PreviousPlayerLinkID": "375261316109387875902958",
+      "PreviousGoalkeeperJersey": 90,
+      "PreviousGoalkeeperName": "GENERALOVS Dmitrijs",
+      "GameTime": 1200
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626970,
+      "Period": 2,
+      "PlayerLinkID": "344555796101779957396718",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1396,
+      "SufferLinkID": "849169726101779937520973",
+      "Jersey": 76,
+      "Name": "MIEZITIS Arons",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 76,
+      "SuffererNames": "MIEZITIS Arons",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_97"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626970,
+      "Period": 2,
+      "PlayerLinkID": "752017976109388015878284",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1657,
+      "SufferLinkID": "486716516109388092371571",
+      "Jersey": 69,
+      "Name": "GLUHOVS Maksimilians",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 69,
+      "SuffererNames": "GLUHOVS Maksimilians",
+      "PenaltyReasonsFI": "Poikittainen maila",
+      "PenaltyReasonsEN": "Cross-Checking",
+      "PenaltyFaultCodes": 10,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "POI",
+      "Key": "Penalty_117"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368625400,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1712,
+      "Key": "Goal_122",
+      "ScorerLinkID": "451697076039976629273140",
+      "Ass1LinkID": "618693276036283468822115",
+      "Ass2LinkID": "299995926068343232560544",
+      "ScorerJersey": 19,
+      "ScorerName": "LEHTINEN Luka",
+      "FirstAssistJersey": 28,
+      "FirstAssistName": "KORKOLA Justus",
+      "SecondAssistJersey": 88,
+      "SecondAssistName": "HILMOLA Antton",
+      "GoalType": "YV",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 4,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2010,
+      "Key": "Goal_133",
+      "ScorerLinkID": "376293796101931884365914",
+      "Ass1LinkID": "247772866109388528326798",
+      "Ass2LinkID": "",
+      "ScorerJersey": 83,
+      "ScorerName": "POLIS Markuss",
+      "FirstAssistJersey": 8,
+      "FirstAssistName": "JURANS Aleksandrs",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 5,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2037,
+      "Key": "Goal_138",
+      "ScorerLinkID": "356604186109387716552554",
+      "Ass1LinkID": "680675116101779875587680",
+      "Ass2LinkID": "838469106109388161037015",
+      "ScorerJersey": 78,
+      "ScorerName": "GAUMIGS Davids",
+      "FirstAssistJersey": 7,
+      "FirstAssistName": "OBUKS Martins",
+      "SecondAssistJersey": 62,
+      "SecondAssistName": "ILSJANS Adrians",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 6,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2086,
+      "Key": "Goal_147",
+      "ScorerLinkID": "659859116105123070442117",
+      "Ass1LinkID": "347696976109388070374645",
+      "Ass2LinkID": "",
+      "ScorerJersey": 68,
+      "ScorerName": "BERZUPS Martins",
+      "FirstAssistJersey": 69,
+      "FirstAssistName": "GLUHOVS Maksimilians",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 7,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2265,
+      "Key": "Goal_152",
+      "ScorerLinkID": "469220366101779822209437",
+      "Ass1LinkID": "758547946109387749969649",
+      "Ass2LinkID": "286280216109390334141247",
+      "ScorerJersey": 7,
+      "ScorerName": "OBUKS Martins",
+      "FirstAssistJersey": 78,
+      "FirstAssistName": "GAUMIGS Davids",
+      "SecondAssistJersey": 67,
+      "SecondAssistName": "ROGA Mikus",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 8,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2493,
+      "Key": "Goal_168",
+      "ScorerLinkID": "809182046109388564358241",
+      "Ass1LinkID": "972106256109389076568373",
+      "Ass2LinkID": "211062896101779842687870",
+      "ScorerJersey": 8,
+      "ScorerName": "JURANS Aleksandrs",
+      "FirstAssistJersey": 97,
+      "FirstAssistName": "LAGZDINS Gustavs",
+      "SecondAssistJersey": 7,
+      "SecondAssistName": "OBUKS Martins",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 9,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2660,
+      "Key": "Goal_176",
+      "ScorerLinkID": "436287276101931552110812",
+      "Ass1LinkID": "438269976109388419802712",
+      "Ass2LinkID": "609253566109389288408807",
+      "ScorerJersey": 5,
+      "ScorerName": "TAURITIS Gabriels",
+      "FirstAssistJersey": 75,
+      "FirstAssistName": "JUGANS Martins",
+      "SecondAssistJersey": 6,
+      "SecondAssistName": "LAZAREVS Alberts",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 10,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625400,
+      "Period": 3,
+      "PlayerLinkID": "967484536036283493579393",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2694,
+      "SufferLinkID": "255899706036283460671107",
+      "Jersey": 28,
+      "Name": "KORKOLA Justus",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 28,
+      "SuffererNames": "KORKOLA Justus",
+      "PenaltyReasonsFI": "Poikittainen maila",
+      "PenaltyReasonsEN": "Cross-Checking",
+      "PenaltyFaultCodes": 10,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "POI",
+      "Key": "Penalty_181"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626970,
+      "Period": 3,
+      "PlayerLinkID": "",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2694,
+      "SufferLinkID": "",
+      "Jersey": 83,
+      "Name": " ",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 0,
+      "SuffererNames": " ",
+      "PenaltyReasonsFI": "Pään tai niskan alueelle kohdistuva taklaus",
+      "PenaltyReasonsEN": "Checking to the Head or Neck",
+      "PenaltyFaultCodes": 44,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "PTK",
+      "Key": "Penalty_182"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626970,
+      "Period": 3,
+      "PlayerLinkID": "118553006101931819267260",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2694,
+      "SufferLinkID": "271686016101931842262309",
+      "Jersey": 83,
+      "Name": "POLIS Markuss",
+      "PenaltyMinutes": "10:00 min",
+      "PenaltyMinutesNumber": 10,
+      "SuffererJersey": 83,
+      "SuffererNames": "POLIS Markuss",
+      "PenaltyReasonsFI": "Pään tai niskan alueelle kohdistuva taklaus",
+      "PenaltyReasonsEN": "Checking to the Head or Neck",
+      "PenaltyFaultCodes": 44,
+      "PenaltyLField": "S",
+      "PenaltyReasonsAbbreviation": "PTK",
+      "Key": "Penalty_183"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2718,
+      "Key": "Goal_187",
+      "ScorerLinkID": "254254096109387715957003",
+      "Ass1LinkID": "346127676101779883725673",
+      "Ass2LinkID": "",
+      "ScorerJersey": 78,
+      "ScorerName": "GAUMIGS Davids",
+      "FirstAssistJersey": 7,
+      "FirstAssistName": "OBUKS Martins",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "TV",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 11,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3252,
+      "Key": "Goal_214",
+      "ScorerLinkID": "870777936101779993851565",
+      "Ass1LinkID": "693810356109387754728087",
+      "Ass2LinkID": "",
+      "ScorerJersey": 76,
+      "ScorerName": "MIEZITIS Arons",
+      "FirstAssistJersey": 78,
+      "FirstAssistName": "GAUMIGS Davids",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 12,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "GK_change",
+      "TeamId": 1368625400,
+      "Period": 3,
+      "PlayerLinkID": "599289516037060491584352",
+      "GoalkeeperJersey": 30,
+      "GoalkeeperName": "ANSALA Rasmus",
+      "PreviousPlayerLinkID": "7279364810003440968468990",
+      "PreviousGoalkeeperJersey": 1,
+      "PreviousGoalkeeperName": "RISU Kasper",
+      "GameTime": 3304
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625400,
+      "Period": 3,
+      "PlayerLinkID": "869182356025856583747372",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3438,
+      "SufferLinkID": "252997826025856585046232",
+      "Jersey": 29,
+      "Name": "RANTALA Eemeli",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 29,
+      "SuffererNames": "RANTALA Eemeli",
+      "PenaltyReasonsFI": "Huitominen",
+      "PenaltyReasonsEN": "Slashing",
+      "PenaltyFaultCodes": 18,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "HUI",
+      "Key": "Penalty_231"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626970,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3482,
+      "Key": "Goal_235",
+      "ScorerLinkID": "636615636101779996425210",
+      "Ass1LinkID": "976150936109389263767175",
+      "Ass2LinkID": "",
+      "ScorerJersey": 76,
+      "ScorerName": "MIEZITIS Arons",
+      "FirstAssistJersey": 6,
+      "FirstAssistName": "LAZAREVS Alberts",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "YV",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 13,
+      "Plus": "",
+      "Minus": ""
+    }
+  ],
+  "WinningShots": [],
+  "Referees": [
+    {
+      "RefereeRole": "Erotuomari",
+      "RefereeName": "ELO Tommi"
+    },
+    {
+      "RefereeRole": "Erotuomari",
+      "RefereeName": "SAUKKOLA Toni"
+    }
+  ],
+  "PeriodSummary": {
+    "PlayedPeriods": 3,
+    "PeriodGoals": [
+      {
+        "Goals": "0-4"
+      },
+      {
+        "Goals": "1-4"
+      },
+      {
+        "Goals": "0-5"
+      },
+      {
+        "Goals": "1-13"
+      }
+    ],
+    "PeriodSaves": [
+      {
+        "Saves": "24-6"
+      },
+      {
+        "Saves": "16-5"
+      },
+      {
+        "Saves": "25-1"
+      },
+      {
+        "Saves": "65-12"
+      }
+    ],
+    "PeriodPenMins": [
+      {
+        "PenMins": "4-2"
+      },
+      {
+        "PenMins": "0-4"
+      },
+      {
+        "PenMins": "4-12"
+      },
+      {
+        "PenMins": "8-18"
+      }
+    ],
+    "PeriodPPMins": [
+      {
+        "PPMins": "02:00-02:11"
+      },
+      {
+        "PPMins": "02:55-00:00"
+      },
+      {
+        "PPMins": "10:00-00:44"
+      },
+      {
+        "PPMins": "14:55-02:55"
+      }
+    ],
+    "PeriodPPGoals": [
+      {
+        "PPGoals": "0-1"
+      },
+      {
+        "PPGoals": "1-0"
+      },
+      {
+        "PPGoals": "0-1"
+      },
+      {
+        "PPGoals": "1-2"
+      }
+    ],
+    "PeriodSHGoals": [
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-0"
+      }
+    ]
+  },
+  "GoalkeeperSummary": [
+    {
+      "TeamName": "HIFK II",
+      "TeamGoalkeepers": [
+        {
+          "GkName": "RISU Kasper",
+          "GkJersey": 1,
+          "PlayerLinkID": "8088266310003440965756685",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 24
+            },
+            {
+              "Period": 2,
+              "Saves": 16
+            },
+            {
+              "Period": 3,
+              "Saves": 18
+            },
+            {
+              "Period": 0,
+              "Saves": 58
+            }
+          ],
+          "GkChanges": [
+            {
+              "Time": "55:04 1-12"
+            }
+          ],
+          "GkOut": []
+        },
+        {
+          "GkName": "ANSALA Rasmus",
+          "GkJersey": 30,
+          "PlayerLinkID": "449334946037060457406073",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 0
+            },
+            {
+              "Period": 2,
+              "Saves": 0
+            },
+            {
+              "Period": 3,
+              "Saves": 7
+            },
+            {
+              "Period": 0,
+              "Saves": 7
+            }
+          ],
+          "GkChanges": [],
+          "GkOut": []
+        }
+      ]
+    },
+    {
+      "TeamName": "Rigas HS",
+      "TeamGoalkeepers": [
+        {
+          "GkName": "GENERALOVS Dmitrijs",
+          "GkJersey": 90,
+          "PlayerLinkID": "668513366109387887401868",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 6
+            },
+            {
+              "Period": 2,
+              "Saves": 0
+            },
+            {
+              "Period": 3,
+              "Saves": 0
+            },
+            {
+              "Period": 0,
+              "Saves": 6
+            }
+          ],
+          "GkChanges": [],
+          "GkOut": []
+        },
+        {
+          "GkName": "KALNINS Magnuss",
+          "GkJersey": 60,
+          "PlayerLinkID": "136126086109388764475118",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 0
+            },
+            {
+              "Period": 2,
+              "Saves": 5
+            },
+            {
+              "Period": 3,
+              "Saves": 1
+            },
+            {
+              "Period": 0,
+              "Saves": 6
+            }
+          ],
+          "GkChanges": [],
+          "GkOut": []
+        }
+      ]
+    }
+  ],
+  "UsersInfo": [],
+  "GameSettings": {
+    "playerDetails": false,
+    "playerStatistics": true,
+    "goalieStatistics": true,
+    "teamStatistics": true
+  }
+}

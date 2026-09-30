@@ -1,0 +1,98 @@
+{
+  "person_id": 75518,
+  "name": "NYBERG Mette",
+  "first_name": "Mette",
+  "last_name": "NYBERG",
+  "player_ids": [
+    100034897
+  ],
+  "link_ids": [
+    "4703333310003489786476018",
+    "7590610210003489744292731",
+    "8850173010003489761270864",
+    "9011405310003489784245382"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721415,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1305455999,
+      "team": "HJK Akatemia",
+      "opponent_id": 1368624637,
+      "opponent": "Viikingit",
+      "home_away": "home",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2721405,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1305455999,
+      "team": "HJK Akatemia",
+      "opponent_id": 1305147422,
+      "opponent": "KJT Haukat Team",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2721448,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1305455999,
+      "team": "HJK Akatemia",
+      "opponent_id": 1368179706,
+      "opponent": "LJK",
+      "home_away": "home",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2721432,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1305455999,
+      "team": "HJK Akatemia",
+      "opponent_id": 830051270,
+      "opponent": "K-Tiikerit",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

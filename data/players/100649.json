@@ -1,0 +1,65 @@
+{
+  "person_id": 100649,
+  "name": "RAMSTEDT Elis",
+  "first_name": "Elis",
+  "last_name": "RAMSTEDT",
+  "player_ids": [
+    60317966
+  ],
+  "link_ids": [
+    "169812516031796658863436"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2710117,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent_id": 1368626067,
+      "opponent": "Viikingit White",
+      "home_away": "home",
+      "jersey_number": "20",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710117,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent": "Viikingit White",
+      "game_label": "Ice Team - Viikingit White",
+      "period": 3,
+      "game_time": "32:45",
+      "raw_event_index": 17,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Estäminen"
+    }
+  ]
+}

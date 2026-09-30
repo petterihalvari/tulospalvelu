@@ -1,0 +1,84 @@
+{
+  "person_id": 88655,
+  "name": "HOLAPPA Alvar",
+  "first_name": "Alvar",
+  "last_name": "HOLAPPA",
+  "player_ids": [
+    100041950
+  ],
+  "link_ids": [
+    "4982824410004195096033780",
+    "5302574810004195040957409"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707406,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368625546,
+      "team": "K-Espoo Hiret",
+      "opponent_id": 1368625355,
+      "opponent": "Jokerit",
+      "home_away": "away",
+      "jersey_number": "24",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707410,
+      "date": "24.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368625546,
+      "team": "K-Espoo Hiret",
+      "opponent_id": 1368625545,
+      "opponent": "K-Espoo Jeret",
+      "home_away": "away",
+      "jersey_number": "24",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2707406,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368625546,
+      "team": "K-Espoo Hiret",
+      "opponent": "Jokerit",
+      "game_label": "Jokerit - K-Espoo Hiret",
+      "period": 3,
+      "game_time": "42:51",
+      "raw_event_index": 15,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "first_assist",
+      "role_label": "1. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "person_id": 89262,
+  "name": "SIPILÄ Touko",
+  "first_name": "Touko",
+  "last_name": "SIPILÄ",
+  "player_ids": [
+    60399205
+  ],
+  "link_ids": [
+    "688271396039920553293674",
+    "879136916039920522273417"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710123,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626055,
+      "team": "K-Espoo EPS II",
+      "opponent_id": 1368626061,
+      "opponent": "K-Espoo Blues II",
+      "home_away": "home",
+      "jersey_number": "85",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710110,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626055,
+      "team": "K-Espoo EPS II",
+      "opponent_id": 1368625975,
+      "opponent": "EVU White",
+      "home_away": "home",
+      "jersey_number": "85",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,84 @@
+{
+  "person_id": 107238,
+  "name": "PIVOVAROV Robert",
+  "first_name": "Robert",
+  "last_name": "PIVOVAROV",
+  "player_ids": [
+    60974135
+  ],
+  "link_ids": [
+    "455126706097413540626362",
+    "868732666097413563532137"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2707333,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368625973,
+      "opponent": "EVU Red",
+      "home_away": "away",
+      "jersey_number": "18",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": "A"
+    },
+    {
+      "game_id": 2707351,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368628243,
+      "opponent": "KJT Haukat Blue",
+      "home_away": "away",
+      "jersey_number": "18",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": "A"
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2707351,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent": "KJT Haukat Blue",
+      "game_label": "KJT Haukat Blue - Vipers",
+      "period": 2,
+      "game_time": "22:44",
+      "raw_event_index": 10,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Väkivaltaisuus"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "person_id": 73818,
+  "name": "ENROTH Alexander",
+  "first_name": "Alexander",
+  "last_name": "ENROTH",
+  "player_ids": [
+    60480251
+  ],
+  "link_ids": [
+    "719358776048025168220126",
+    "889415416048025184466594"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721407,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368621356,
+      "team": "K-Espoo III",
+      "opponent_id": 752932062,
+      "opponent": "KooKoo Team / IiHoo",
+      "home_away": "away",
+      "jersey_number": "84",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721412,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368621356,
+      "team": "K-Espoo III",
+      "opponent_id": 830051270,
+      "opponent": "K-Tiikerit",
+      "home_away": "home",
+      "jersey_number": "84",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2721412,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368621356,
+      "team": "K-Espoo III",
+      "opponent": "K-Tiikerit",
+      "game_label": "K-Espoo III - K-Tiikerit",
+      "period": 3,
+      "game_time": "58:03",
+      "raw_event_index": 39,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "second_assist",
+      "role_label": "2. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

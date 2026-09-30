@@ -1,0 +1,111 @@
+{
+  "person_id": 100056,
+  "name": "NIEMI Rafael",
+  "first_name": "Rafael",
+  "last_name": "NIEMI",
+  "player_ids": [
+    60440646
+  ],
+  "link_ids": [
+    "520975936044064616884020"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 3,
+    "assists": 0,
+    "points": 3,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2714196,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent_id": 1368625975,
+      "opponent": "EVU White",
+      "home_away": "home",
+      "jersey_number": "13",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2714196,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent": "EVU White",
+      "game_label": "K-Espoo Blues II - EVU White",
+      "period": 1,
+      "game_time": "03:29",
+      "raw_event_index": 2,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    },
+    {
+      "game_id": 2714196,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent": "EVU White",
+      "game_label": "K-Espoo Blues II - EVU White",
+      "period": 1,
+      "game_time": "12:24",
+      "raw_event_index": 4,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    },
+    {
+      "game_id": 2714196,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent": "EVU White",
+      "game_label": "K-Espoo Blues II - EVU White",
+      "period": 2,
+      "game_time": "24:25",
+      "raw_event_index": 7,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "person_id": 72478,
+  "name": "VAINIO Joel",
+  "first_name": "Joel",
+  "last_name": "VAINIO",
+  "player_ids": [
+    60397146
+  ],
+  "link_ids": [
+    "284250536039714664372230",
+    "285927456039714660370974"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710076,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368628244,
+      "team": "KJT Haukat White",
+      "opponent_id": 1368626061,
+      "opponent": "K-Espoo Blues II",
+      "home_away": "home",
+      "jersey_number": "71",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710098,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368628244,
+      "team": "KJT Haukat White",
+      "opponent_id": 1368625975,
+      "opponent": "EVU White",
+      "home_away": "away",
+      "jersey_number": "71",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710098,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368628244,
+      "team": "KJT Haukat White",
+      "opponent": "EVU White",
+      "game_label": "EVU White - KJT Haukat White",
+      "period": 3,
+      "game_time": "41:09",
+      "raw_event_index": 15,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

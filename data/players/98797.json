@@ -1,0 +1,103 @@
+{
+  "person_id": 98797,
+  "name": "LEHTINEN Elis",
+  "first_name": "Elis",
+  "last_name": "LEHTINEN",
+  "player_ids": [
+    60560649
+  ],
+  "link_ids": [
+    "158383846056064993807669",
+    "599264056056064982649665",
+    "899056046056064953034036"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713716,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368630097,
+      "opponent": "K-Tiikerit Oranssi",
+      "home_away": "home",
+      "jersey_number": "21",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713722,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "21",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2713724,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368630007,
+      "opponent": "Ice Force Gold",
+      "home_away": "away",
+      "jersey_number": "21",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713724,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent": "Ice Force Gold",
+      "game_label": "Ice Force Gold - K-Espoo V",
+      "period": 1,
+      "game_time": "10:51",
+      "raw_event_index": 6,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

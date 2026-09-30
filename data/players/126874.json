@@ -1,0 +1,98 @@
+{
+  "person_id": 126874,
+  "name": "LÕUKE Kert",
+  "first_name": "Kert",
+  "last_name": "LÕUKE",
+  "player_ids": [
+    61101083
+  ],
+  "link_ids": [
+    "118479676110108346596485",
+    "712982036110108345213210",
+    "800470066110108346074969",
+    "968846386110108358727197"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2706303,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630137,
+      "team": "Panter",
+      "opponent_id": 1368627456,
+      "opponent": "KJT Haukat White",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706316,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630137,
+      "team": "Panter",
+      "opponent_id": 1368625825,
+      "opponent": "HAKI Blue",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706298,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630137,
+      "team": "Panter",
+      "opponent_id": 1368630069,
+      "opponent": "HIFK JG",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706325,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630137,
+      "team": "Panter",
+      "opponent_id": 1368629975,
+      "opponent": "Ice Force Purple",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

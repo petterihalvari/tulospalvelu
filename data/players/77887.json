@@ -1,0 +1,103 @@
+{
+  "person_id": 77887,
+  "name": "RAMSAY Aaron",
+  "first_name": "Aaron",
+  "last_name": "RAMSAY",
+  "player_ids": [
+    100034310
+  ],
+  "link_ids": [
+    "4996684510003431076713849",
+    "8355151410003431024811293",
+    "8853984610003431045279958"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713723,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368630127,
+      "opponent": "Peliitat",
+      "home_away": "home",
+      "jersey_number": "14",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713726,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "14",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713733,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368629992,
+      "opponent": "Hunters",
+      "home_away": "home",
+      "jersey_number": "14",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713726,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent": "KJT Haukat Black",
+      "game_label": "KJT Haukat Black - HYRI Yellow",
+      "period": 2,
+      "game_time": "32:53",
+      "raw_event_index": 18,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

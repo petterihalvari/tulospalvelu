@@ -1,0 +1,60 @@
+{
+  "person_id": 79689,
+  "name": "PENTTINEN Otso",
+  "first_name": "Otso",
+  "last_name": "PENTTINEN",
+  "player_ids": [
+    60399141
+  ],
+  "link_ids": [
+    "732403806039914186669446",
+    "816433236039914167136403"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721458,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 830051270,
+      "team": "K-Tiikerit",
+      "opponent_id": 65632771,
+      "opponent": "Hunters",
+      "home_away": "home",
+      "jersey_number": "97",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721432,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 830051270,
+      "team": "K-Tiikerit",
+      "opponent_id": 1305455999,
+      "opponent": "HJK Akatemia",
+      "home_away": "home",
+      "jersey_number": "97",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

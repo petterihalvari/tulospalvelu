@@ -1,0 +1,60 @@
+{
+  "person_id": 101279,
+  "name": "LABI Georg",
+  "first_name": "Georg",
+  "last_name": "LABI",
+  "player_ids": [
+    60876152
+  ],
+  "link_ids": [
+    "553778846087615261325469",
+    "748076636087615255497478"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707397,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368627446,
+      "team": "Vipers",
+      "opponent_id": 1368625265,
+      "opponent": "K-Kissat",
+      "home_away": "away",
+      "jersey_number": "88",
+      "role": "Puolustaja",
+      "role_abbrv": "P",
+      "captain": ""
+    },
+    {
+      "game_id": 2707400,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368627446,
+      "team": "Vipers",
+      "opponent_id": 1368625355,
+      "opponent": "Jokerit",
+      "home_away": "away",
+      "jersey_number": "88",
+      "role": "Puolustaja",
+      "role_abbrv": "P",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,84 @@
+{
+  "person_id": 75455,
+  "name": "VILJANEN Voitto",
+  "first_name": "Voitto",
+  "last_name": "VILJANEN",
+  "player_ids": [
+    60611444
+  ],
+  "link_ids": [
+    "495883696061144475722148",
+    "892668356061144418543804"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721434,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 65632771,
+      "team": "Hunters",
+      "opponent_id": 1305455999,
+      "opponent": "HJK Akatemia",
+      "home_away": "away",
+      "jersey_number": "41",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721458,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 65632771,
+      "team": "Hunters",
+      "opponent_id": 830051270,
+      "opponent": "K-Tiikerit",
+      "home_away": "away",
+      "jersey_number": "41",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2721434,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 65632771,
+      "team": "Hunters",
+      "opponent": "HJK Akatemia",
+      "game_label": "HJK Akatemia - Hunters",
+      "period": 3,
+      "game_time": "49:19",
+      "raw_event_index": 13,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "second_assist",
+      "role_label": "2. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

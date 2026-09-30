@@ -1,0 +1,103 @@
+{
+  "person_id": 74892,
+  "name": "KÄRKKÄINEN Leo",
+  "first_name": "Leo",
+  "last_name": "KÄRKKÄINEN",
+  "player_ids": [
+    60374567
+  ],
+  "link_ids": [
+    "168227936037456793384303",
+    "571923666037456799357621",
+    "898939326037456746604281"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2721431,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368624672,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 1305147422,
+      "opponent": "KJT Haukat Team",
+      "home_away": "away",
+      "jersey_number": "47",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721439,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368624672,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 752932062,
+      "opponent": "KooKoo Team / IiHoo",
+      "home_away": "home",
+      "jersey_number": "47",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721427,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368624672,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 1368624637,
+      "opponent": "Viikingit",
+      "home_away": "away",
+      "jersey_number": "47",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2721427,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368624672,
+      "team": "K-Vantaa Akatemia",
+      "opponent": "Viikingit",
+      "game_label": "Viikingit - K-Vantaa Akatemia",
+      "period": 3,
+      "game_time": "42:50",
+      "raw_event_index": 19,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Huitominen"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "person_id": 86241,
+  "name": "OJALA Arttu",
+  "first_name": "Arttu",
+  "last_name": "OJALA",
+  "player_ids": [
+    60435488
+  ],
+  "link_ids": [
+    "262408716043548866791884",
+    "970458026043548887985968"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 2,
+    "assists": 0,
+    "points": 2,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713723,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368630127,
+      "opponent": "Peliitat",
+      "home_away": "home",
+      "jersey_number": "24",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713733,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368629992,
+      "opponent": "Hunters",
+      "home_away": "home",
+      "jersey_number": "24",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713733,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent": "Hunters",
+      "game_label": "HYRI Yellow - Hunters",
+      "period": 2,
+      "game_time": "36:29",
+      "raw_event_index": 6,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    },
+    {
+      "game_id": 2713733,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent": "Hunters",
+      "game_label": "HYRI Yellow - Hunters",
+      "period": 3,
+      "game_time": "47:14",
+      "raw_event_index": 11,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "person_id": 75115,
+  "name": "KORTELAINEN Nuutti",
+  "first_name": "Nuutti",
+  "last_name": "KORTELAINEN",
+  "player_ids": [
+    60416994
+  ],
+  "link_ids": [
+    "189158116041699456850684",
+    "260815556041699420297787",
+    "604054556041699420701521",
+    "860030426041699476951291"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713720,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368625827,
+      "opponent": "HAKI White",
+      "home_away": "away",
+      "jersey_number": "46",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713727,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368630127,
+      "opponent": "Peliitat",
+      "home_away": "home",
+      "jersey_number": "46",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713728,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "46",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713733,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368628855,
+      "opponent": "HYRI Yellow",
+      "home_away": "away",
+      "jersey_number": "46",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,60 @@
+{
+  "person_id": 125271,
+  "name": "ULPE Kaspars",
+  "first_name": "Kaspars",
+  "last_name": "ULPE",
+  "player_ids": [
+    61093908
+  ],
+  "link_ids": [
+    "138026146109390880117184",
+    "807903666109390838916143"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707389,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368626970,
+      "team": "Rigas HS",
+      "opponent_id": 1368627445,
+      "opponent": "Falcon",
+      "home_away": "away",
+      "jersey_number": "64",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707390,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368626970,
+      "team": "Rigas HS",
+      "opponent_id": 1368630104,
+      "opponent": "Baltijas Vilki",
+      "home_away": "home",
+      "jersey_number": "64",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

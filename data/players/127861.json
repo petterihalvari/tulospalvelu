@@ -1,0 +1,98 @@
+{
+  "person_id": 127861,
+  "name": "TENNO Klaus",
+  "first_name": "Klaus",
+  "last_name": "TENNO",
+  "player_ids": [
+    61101881
+  ],
+  "link_ids": [
+    "324916916110188189446683",
+    "408508216110188143867523",
+    "672438456110188112907818",
+    "946149686110188147902710"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710046,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630135,
+      "team": "Panter",
+      "opponent_id": 1368625974,
+      "opponent": "EVU Blue",
+      "home_away": "away",
+      "jersey_number": "41",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710055,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630135,
+      "team": "Panter",
+      "opponent_id": 1368626071,
+      "opponent": "HJK Blue",
+      "home_away": "away",
+      "jersey_number": "41",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710050,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630135,
+      "team": "Panter",
+      "opponent_id": 1368626051,
+      "opponent": "K-Espoo EKS II",
+      "home_away": "away",
+      "jersey_number": "41",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710073,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630135,
+      "team": "Panter",
+      "opponent_id": 1368626617,
+      "opponent": "K-Kissat Kissat",
+      "home_away": "away",
+      "jersey_number": "41",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,103 @@
+{
+  "person_id": 125262,
+  "name": "ROGA Mikus",
+  "first_name": "Mikus",
+  "last_name": "ROGA",
+  "player_ids": [
+    61093903
+  ],
+  "link_ids": [
+    "168652316109390313631991",
+    "452168936109390324857090",
+    "816764826109390325161667"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707390,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368626970,
+      "team": "Rigas HS",
+      "opponent_id": 1368630104,
+      "opponent": "Baltijas Vilki",
+      "home_away": "home",
+      "jersey_number": "67",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707415,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368626970,
+      "team": "Rigas HS",
+      "opponent_id": 1368624827,
+      "opponent": "HIFK",
+      "home_away": "away",
+      "jersey_number": "67",
+      "role": "Puolustaja",
+      "role_abbrv": "P",
+      "captain": ""
+    },
+    {
+      "game_id": 2707418,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368626970,
+      "team": "Rigas HS",
+      "opponent_id": 1368625400,
+      "opponent": "HIFK II",
+      "home_away": "away",
+      "jersey_number": "67",
+      "role": "Puolustaja",
+      "role_abbrv": "P",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2707418,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368626970,
+      "team": "Rigas HS",
+      "opponent": "HIFK II",
+      "game_label": "HIFK II - Rigas HS",
+      "period": 2,
+      "game_time": "37:45",
+      "raw_event_index": 16,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "second_assist",
+      "role_label": "2. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

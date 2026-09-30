@@ -1,0 +1,65 @@
+{
+  "person_id": 99128,
+  "name": "VIRKKUNEN Emil",
+  "first_name": "Emil",
+  "last_name": "VIRKKUNEN",
+  "player_ids": [
+    60433503
+  ],
+  "link_ids": [
+    "278459406043350312126850"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2710061,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626617,
+      "team": "K-Kissat Kissat",
+      "opponent_id": 1368625301,
+      "opponent": "K-Vantaa Akatemia 1",
+      "home_away": "home",
+      "jersey_number": "44",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710061,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626617,
+      "team": "K-Kissat Kissat",
+      "opponent": "K-Vantaa Akatemia 1",
+      "game_label": "K-Kissat Kissat - K-Vantaa Akatemia 1",
+      "period": 3,
+      "game_time": "42:14",
+      "raw_event_index": 15,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Huitominen"
+    }
+  ]
+}

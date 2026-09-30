@@ -1,0 +1,60 @@
+{
+  "person_id": 61943,
+  "name": "PELTOLA Mira",
+  "first_name": "Mira",
+  "last_name": "PELTOLA",
+  "player_ids": [
+    60073718
+  ],
+  "link_ids": [
+    "541364786007371829404792",
+    "679919806007371878203962"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2706281,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630069,
+      "team": "HIFK JG",
+      "opponent_id": 1368624961,
+      "opponent": "K-Vantaa Akatemia",
+      "home_away": "away",
+      "jersey_number": "32",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706304,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630069,
+      "team": "HIFK JG",
+      "opponent_id": 1368625548,
+      "opponent": "K-Espoo IV",
+      "home_away": "home",
+      "jersey_number": "32",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

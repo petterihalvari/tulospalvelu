@@ -1,0 +1,88 @@
+{
+  "person_id": 98608,
+  "name": "MÖTTÖ Kristian",
+  "first_name": "Kristian",
+  "last_name": "MÖTTÖ",
+  "player_ids": [
+    60381826
+  ],
+  "link_ids": [
+    "411617616038182634282185"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2710046,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368625974,
+      "team": "EVU Blue",
+      "opponent_id": 1368630135,
+      "opponent": "Panter",
+      "home_away": "home",
+      "jersey_number": "38",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710046,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368625974,
+      "team": "EVU Blue",
+      "opponent": "Panter",
+      "game_label": "EVU Blue - Panter",
+      "period": 2,
+      "game_time": "19:22",
+      "raw_event_index": 8,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Sääntöjen vastainen taklaus"
+    },
+    {
+      "game_id": 2710046,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368625974,
+      "team": "EVU Blue",
+      "opponent": "Panter",
+      "game_label": "EVU Blue - Panter",
+      "period": 2,
+      "game_time": "25:06",
+      "raw_event_index": 9,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "first_assist",
+      "role_label": "1. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

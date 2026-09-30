@@ -1,0 +1,98 @@
+{
+  "person_id": 109001,
+  "name": "MARTIKAINEN Walter",
+  "first_name": "Walter",
+  "last_name": "MARTIKAINEN",
+  "player_ids": [
+    60881908
+  ],
+  "link_ids": [
+    "392715286088190863888529",
+    "433730366088190874637064",
+    "621378706088190828705335",
+    "772823496088190868518552"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710108,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent_id": 1368626061,
+      "opponent": "K-Espoo Blues II",
+      "home_away": "away",
+      "jersey_number": "43",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710125,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent_id": 1368628244,
+      "opponent": "KJT Haukat White",
+      "home_away": "away",
+      "jersey_number": "43",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710117,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent_id": 1368626067,
+      "opponent": "Viikingit White",
+      "home_away": "home",
+      "jersey_number": "43",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710129,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent_id": 1368626032,
+      "opponent": "GrIFK White",
+      "home_away": "home",
+      "jersey_number": "43",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

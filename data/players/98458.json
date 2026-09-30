@@ -1,0 +1,103 @@
+{
+  "person_id": 98458,
+  "name": "BRUUN Olavi",
+  "first_name": "Olavi",
+  "last_name": "BRUUN",
+  "player_ids": [
+    60393482
+  ],
+  "link_ids": [
+    "346866336039348285382412",
+    "861454736039348251262972",
+    "902384236039348228368688"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2713718,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368625523,
+      "opponent": "K-Espoo V",
+      "home_away": "away",
+      "jersey_number": "72",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713720,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368625827,
+      "opponent": "HAKI White",
+      "home_away": "away",
+      "jersey_number": "72",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713733,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368628855,
+      "opponent": "HYRI Yellow",
+      "home_away": "away",
+      "jersey_number": "72",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713718,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent": "K-Espoo V",
+      "game_label": "K-Espoo V - Hunters",
+      "period": 2,
+      "game_time": "33:55",
+      "raw_event_index": 13,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Estäminen"
+    }
+  ]
+}

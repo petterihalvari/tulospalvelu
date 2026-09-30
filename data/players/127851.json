@@ -1,0 +1,60 @@
+{
+  "person_id": 127851,
+  "name": "SÜVAOJA Reto",
+  "first_name": "Reto",
+  "last_name": "SÜVAOJA",
+  "player_ids": [
+    61101871
+  ],
+  "link_ids": [
+    "155910986110187116559592",
+    "215676166110187136726843"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710046,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630135,
+      "team": "Panter",
+      "opponent_id": 1368625974,
+      "opponent": "EVU Blue",
+      "home_away": "away",
+      "jersey_number": "14",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2710055,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630135,
+      "team": "Panter",
+      "opponent_id": 1368626071,
+      "opponent": "HJK Blue",
+      "home_away": "away",
+      "jersey_number": "14",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

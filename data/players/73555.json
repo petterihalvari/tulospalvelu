@@ -1,0 +1,122 @@
+{
+  "person_id": 73555,
+  "name": "PAAJANEN Oosa",
+  "first_name": "Oosa",
+  "last_name": "PAAJANEN",
+  "player_ids": [
+    60397102
+  ],
+  "link_ids": [
+    "167435006039710251120890",
+    "221546396039710276223425",
+    "344868236039710263358262",
+    "557649876039710248486074"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2707387,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368628856,
+      "team": "HYRI Black",
+      "opponent_id": 1368624827,
+      "opponent": "HIFK",
+      "home_away": "away",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707391,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368628856,
+      "team": "HYRI Black",
+      "opponent_id": 1368625355,
+      "opponent": "Jokerit",
+      "home_away": "away",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707395,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368628856,
+      "team": "HYRI Black",
+      "opponent_id": 1368627445,
+      "opponent": "Falcon",
+      "home_away": "home",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707411,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368628856,
+      "team": "HYRI Black",
+      "opponent_id": 1368627446,
+      "opponent": "Vipers",
+      "home_away": "home",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2707395,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368628856,
+      "team": "HYRI Black",
+      "opponent": "Falcon",
+      "game_label": "HYRI Black - Falcon",
+      "period": 1,
+      "game_time": "17:56",
+      "raw_event_index": 9,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Koukkaaminen"
+    }
+  ]
+}

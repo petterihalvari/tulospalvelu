@@ -1,0 +1,107 @@
+{
+  "person_id": 98852,
+  "name": "HIRVONEN Arvi",
+  "first_name": "Arvi",
+  "last_name": "HIRVONEN",
+  "player_ids": [
+    60470913
+  ],
+  "link_ids": [
+    "254424816047091355978266",
+    "814345276047091336520382"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 2,
+    "penalty_minutes": 4
+  },
+  "appearances": [
+    {
+      "game_id": 2713720,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368625827,
+      "opponent": "HAKI White",
+      "home_away": "away",
+      "jersey_number": "36",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713728,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "36",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713728,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent": "KJT Haukat Black",
+      "game_label": "KJT Haukat Black - Hunters",
+      "period": 1,
+      "game_time": "12:44",
+      "raw_event_index": 2,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Sääntöjen vastainen taklaus"
+    },
+    {
+      "game_id": 2713728,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent": "KJT Haukat Black",
+      "game_label": "KJT Haukat Black - Hunters",
+      "period": 3,
+      "game_time": "48:44",
+      "raw_event_index": 27,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Väkivaltaisuus"
+    }
+  ]
+}

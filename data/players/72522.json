@@ -1,0 +1,98 @@
+{
+  "person_id": 72522,
+  "name": "SAASTAMOINEN Otso",
+  "first_name": "Otso",
+  "last_name": "SAASTAMOINEN",
+  "player_ids": [
+    100034804
+  ],
+  "link_ids": [
+    "4494600310003480484912064",
+    "6225066910003480414542596",
+    "7673193210003480441259405",
+    "7921972510003480497300107"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713714,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368625827,
+      "opponent": "HAKI White",
+      "home_away": "away",
+      "jersey_number": "27",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713723,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368630127,
+      "opponent": "Peliitat",
+      "home_away": "home",
+      "jersey_number": "27",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713726,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "27",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713733,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368629992,
+      "opponent": "Hunters",
+      "home_away": "home",
+      "jersey_number": "27",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

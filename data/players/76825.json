@@ -1,0 +1,65 @@
+{
+  "person_id": 76825,
+  "name": "PERIKANGAS Aaro",
+  "first_name": "Aaro",
+  "last_name": "PERIKANGAS",
+  "player_ids": [
+    60571646
+  ],
+  "link_ids": [
+    "845044266057164648690298"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2710065,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368625301,
+      "team": "K-Vantaa Akatemia 1",
+      "opponent_id": 1368629985,
+      "opponent": "Wolf musta",
+      "home_away": "home",
+      "jersey_number": "15",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710065,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368625301,
+      "team": "K-Vantaa Akatemia 1",
+      "opponent": "Wolf musta",
+      "game_label": "K-Vantaa Akatemia 1 - Wolf musta",
+      "period": 3,
+      "game_time": "35:52",
+      "raw_event_index": 21,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Kampitus"
+    }
+  ]
+}

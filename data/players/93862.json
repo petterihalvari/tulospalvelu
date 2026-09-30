@@ -1,0 +1,41 @@
+{
+  "person_id": 93862,
+  "name": "VAINIO Akseli",
+  "first_name": "Akseli",
+  "last_name": "VAINIO",
+  "player_ids": [
+    60358554
+  ],
+  "link_ids": [
+    "358425186035855427597128"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2714196,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent_id": 1368625975,
+      "opponent": "EVU White",
+      "home_away": "home",
+      "jersey_number": "3",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

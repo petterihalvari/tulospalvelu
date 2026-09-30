@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<title>U15 Valkoinen</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background: #f2f2f2;
+    text-align: left;
+}
+
+.result {
+    font-weight: bold;
+    text-align: center;
+    width: 80px;
+}
+
+.future {
+    color: #888;
+}
+</style>
+
+</head>
+<body>
+
+<h1>U15 Valkoinen</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Päivä</th>
+            <th>Kotijoukkue</th>
+            <th></th>
+            <th>Vierasjoukkue</th>
+        </tr>
+    </thead>
+
+    <tbody id="gamesTable">
+    </tbody>
+
+</table>
+
+<script>
+
+const scheduleData = SCHEDULE_DATA;
+
+const tbody = document.getElementById("gamesTable");
+
+scheduleData.forEach(level => {
+
+    level.Games.forEach(game => {
+
+        let result = "-";
+
+        if (game.GameStatus === 2) {
+            result =
+                `${game.HomeGoals} - ${game.AwayGoals}`;
+        }
+
+        const row = document.createElement("tr");
+
+        row.innerHTML = `
+            <td>${game.GameDate}</td>
+            <td>${game.HomeTeamAbbrv}</td>
+            <td class="result">${result}</td>
+            <td>${game.AwayTeamAbbrv}</td>
+        `;
+
+        tbody.appendChild(row);
+
+    });
+
+});
+
+</script>
+
+</body>
+</html>

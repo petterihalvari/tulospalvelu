@@ -1,0 +1,65 @@
+{
+  "person_id": 72476,
+  "name": "FEIRING William",
+  "first_name": "William",
+  "last_name": "FEIRING",
+  "player_ids": [
+    60178201
+  ],
+  "link_ids": [
+    "613363736017820182205358"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710073,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626617,
+      "team": "K-Kissat Kissat",
+      "opponent_id": 1368630135,
+      "opponent": "Panter",
+      "home_away": "home",
+      "jersey_number": "98",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710073,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626617,
+      "team": "K-Kissat Kissat",
+      "opponent": "Panter",
+      "game_label": "K-Kissat Kissat - Panter",
+      "period": 3,
+      "game_time": "33:47",
+      "raw_event_index": 16,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

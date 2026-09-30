@@ -1,0 +1,107 @@
+{
+  "person_id": 73819,
+  "name": "HEIKKILÄ Miro",
+  "first_name": "Miro",
+  "last_name": "HEIKKILÄ",
+  "player_ids": [
+    40454901
+  ],
+  "link_ids": [
+    "634125114045490142324295",
+    "734002664045490199534331"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 2,
+    "penalty_minutes": 12
+  },
+  "appearances": [
+    {
+      "game_id": 2721412,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368621356,
+      "team": "K-Espoo III",
+      "opponent_id": 830051270,
+      "opponent": "K-Tiikerit",
+      "home_away": "home",
+      "jersey_number": "86",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721449,
+      "date": "24.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368621356,
+      "team": "K-Espoo III",
+      "opponent_id": 757585531,
+      "opponent": "HAKI",
+      "home_away": "away",
+      "jersey_number": "86",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2721412,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368621356,
+      "team": "K-Espoo III",
+      "opponent": "K-Tiikerit",
+      "game_label": "K-Espoo III - K-Tiikerit",
+      "period": 3,
+      "game_time": "56:49",
+      "raw_event_index": 34,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 10,
+      "penalty_reason": "Epäurheilijamainen käytös"
+    },
+    {
+      "game_id": 2721412,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368621356,
+      "team": "K-Espoo III",
+      "opponent": "K-Tiikerit",
+      "game_label": "K-Espoo III - K-Tiikerit",
+      "period": 3,
+      "game_time": "56:49",
+      "raw_event_index": 35,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Väkivaltaisuus"
+    }
+  ]
+}

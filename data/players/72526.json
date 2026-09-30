@@ -1,0 +1,84 @@
+{
+  "person_id": 72526,
+  "name": "VIROLAINEN Lauri",
+  "first_name": "Lauri",
+  "last_name": "VIROLAINEN",
+  "player_ids": [
+    60081269
+  ],
+  "link_ids": [
+    "129838716008126960691125",
+    "899905116008126956226813"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713714,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368625827,
+      "opponent": "HAKI White",
+      "home_away": "away",
+      "jersey_number": "20",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713726,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "20",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713726,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent": "KJT Haukat Black",
+      "game_label": "KJT Haukat Black - HYRI Yellow",
+      "period": 2,
+      "game_time": "29:07",
+      "raw_event_index": 15,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

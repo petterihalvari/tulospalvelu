@@ -1,0 +1,79 @@
+{
+  "person_id": 85168,
+  "name": "RIEKKI Semion",
+  "first_name": "Semion",
+  "last_name": "RIEKKI",
+  "player_ids": [
+    60396778
+  ],
+  "link_ids": [
+    "177601576039677838182408",
+    "472238896039677820238419",
+    "522698746039677837041645"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710107,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368628244,
+      "team": "KJT Haukat White",
+      "opponent_id": 1368626052,
+      "opponent": "K-Espoo EKS III",
+      "home_away": "away",
+      "jersey_number": "31",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710121,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368628244,
+      "team": "KJT Haukat White",
+      "opponent_id": 1368626067,
+      "opponent": "Viikingit White",
+      "home_away": "away",
+      "jersey_number": "31",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2707351,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628243,
+      "team": "KJT Haukat Blue",
+      "opponent_id": 1368628293,
+      "opponent": "Vipers",
+      "home_away": "home",
+      "jersey_number": "31",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

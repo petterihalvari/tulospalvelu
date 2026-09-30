@@ -1,0 +1,79 @@
+{
+  "person_id": 87972,
+  "name": "JORMANAINEN Mauri",
+  "first_name": "Mauri",
+  "last_name": "JORMANAINEN",
+  "player_ids": [
+    60266610
+  ],
+  "link_ids": [
+    "353200866026661082485197",
+    "769674126026661043917773",
+    "944165106026661090444521"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721431,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368624672,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 1305147422,
+      "opponent": "KJT Haukat Team",
+      "home_away": "away",
+      "jersey_number": "43",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721439,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368624672,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 752932062,
+      "opponent": "KooKoo Team / IiHoo",
+      "home_away": "home",
+      "jersey_number": "43",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721427,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368624672,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 1368624637,
+      "opponent": "Viikingit",
+      "home_away": "away",
+      "jersey_number": "43",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

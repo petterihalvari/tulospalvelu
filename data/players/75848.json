@@ -1,0 +1,84 @@
+{
+  "person_id": 75848,
+  "name": "WAHLBERG Dominic",
+  "first_name": "Dominic",
+  "last_name": "WAHLBERG",
+  "player_ids": [
+    40464464
+  ],
+  "link_ids": [
+    "715550754046446452992334",
+    "942289134046446475193141"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713722,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "72",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2713729,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368630127,
+      "opponent": "Peliitat",
+      "home_away": "home",
+      "jersey_number": "72",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713722,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent": "KJT Haukat Black",
+      "game_label": "KJT Haukat Black - K-Espoo V",
+      "period": 1,
+      "game_time": "10:25",
+      "raw_event_index": 4,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "second_assist",
+      "role_label": "2. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

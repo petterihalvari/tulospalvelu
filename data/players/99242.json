@@ -1,0 +1,65 @@
+{
+  "person_id": 99242,
+  "name": "VIREMO Leo",
+  "first_name": "Leo",
+  "last_name": "VIREMO",
+  "player_ids": [
+    100036246
+  ],
+  "link_ids": [
+    "3959372710003624610843660"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713714,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent_id": 1368625827,
+      "opponent": "HAKI White",
+      "home_away": "away",
+      "jersey_number": "33",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713714,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368628855,
+      "team": "HYRI Yellow",
+      "opponent": "HAKI White",
+      "game_label": "HAKI White - HYRI Yellow",
+      "period": 2,
+      "game_time": "33:38",
+      "raw_event_index": 8,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

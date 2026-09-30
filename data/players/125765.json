@@ -1,0 +1,60 @@
+{
+  "person_id": 125765,
+  "name": "KOSSENKOV Zahar",
+  "first_name": "Zahar",
+  "last_name": "KOSSENKOV",
+  "player_ids": [
+    61096119
+  ],
+  "link_ids": [
+    "396806716109611993781557",
+    "868728576109611977761894"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707333,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368625973,
+      "opponent": "EVU Red",
+      "home_away": "away",
+      "jersey_number": "13",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2707351,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368628243,
+      "opponent": "KJT Haukat Blue",
+      "home_away": "away",
+      "jersey_number": "13",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

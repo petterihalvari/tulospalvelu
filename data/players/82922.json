@@ -1,0 +1,98 @@
+{
+  "person_id": 82922,
+  "name": "PUTTONEN Kaisa",
+  "first_name": "Kaisa",
+  "last_name": "PUTTONEN",
+  "player_ids": [
+    60366505
+  ],
+  "link_ids": [
+    "265765896036650568400028",
+    "384194076036650592170444",
+    "691902566036650519394347",
+    "779121466036650535444544"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710060,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368628825,
+      "team": "Ice Force",
+      "opponent_id": 1368629985,
+      "opponent": "Wolf musta",
+      "home_away": "away",
+      "jersey_number": "23",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710040,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368628825,
+      "team": "Ice Force",
+      "opponent_id": 1368626071,
+      "opponent": "HJK Blue",
+      "home_away": "home",
+      "jersey_number": "23",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710030,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368628825,
+      "team": "Ice Force",
+      "opponent_id": 1368625974,
+      "opponent": "EVU Blue",
+      "home_away": "home",
+      "jersey_number": "23",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710024,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368628825,
+      "team": "Ice Force",
+      "opponent_id": 1368629985,
+      "opponent": "Wolf musta",
+      "home_away": "home",
+      "jersey_number": "23",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,79 @@
+{
+  "person_id": 79616,
+  "name": "KOSK William",
+  "first_name": "William",
+  "last_name": "KOSK",
+  "player_ids": [
+    100047388
+  ],
+  "link_ids": [
+    "4622217110004738839300691",
+    "5025389510004738870374656",
+    "5321560510004738877864067"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710102,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626032,
+      "team": "GrIFK White",
+      "opponent_id": 1368625975,
+      "opponent": "EVU White",
+      "home_away": "home",
+      "jersey_number": "35",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710075,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626032,
+      "team": "GrIFK White",
+      "opponent_id": 1368626052,
+      "opponent": "K-Espoo EKS III",
+      "home_away": "home",
+      "jersey_number": "35",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2707357,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368626031,
+      "team": "GrIFK Green",
+      "opponent_id": 1368625973,
+      "opponent": "EVU Red",
+      "home_away": "away",
+      "jersey_number": "35",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

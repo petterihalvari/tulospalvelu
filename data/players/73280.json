@@ -1,0 +1,79 @@
+{
+  "person_id": 73280,
+  "name": "KUUSIMÄKI Jake",
+  "first_name": "Jake",
+  "last_name": "KUUSIMÄKI",
+  "player_ids": [
+    100042801
+  ],
+  "link_ids": [
+    "2936720510004280143767878",
+    "5467566710004280122365429",
+    "6891880710004280197148834"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710035,
+      "date": "14.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368628825,
+      "team": "Ice Force",
+      "opponent_id": 1368626051,
+      "opponent": "K-Espoo EKS II",
+      "home_away": "away",
+      "jersey_number": "3",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710053,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368628825,
+      "team": "Ice Force",
+      "opponent_id": 1368625301,
+      "opponent": "K-Vantaa Akatemia 1",
+      "home_away": "home",
+      "jersey_number": "3",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710024,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368628825,
+      "team": "Ice Force",
+      "opponent_id": 1368629985,
+      "opponent": "Wolf musta",
+      "home_away": "home",
+      "jersey_number": "3",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

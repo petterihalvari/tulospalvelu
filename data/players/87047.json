@@ -1,0 +1,107 @@
+{
+  "person_id": 87047,
+  "name": "JÄRVI Max",
+  "first_name": "Max",
+  "last_name": "JÄRVI",
+  "player_ids": [
+    60394170
+  ],
+  "link_ids": [
+    "134135386039417071428379",
+    "464127566039417042965702"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 2,
+    "assists": 0,
+    "points": 2,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713718,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368625523,
+      "opponent": "K-Espoo V",
+      "home_away": "away",
+      "jersey_number": "87",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713728,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "87",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713718,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent": "K-Espoo V",
+      "game_label": "K-Espoo V - Hunters",
+      "period": 2,
+      "game_time": "28:40",
+      "raw_event_index": 7,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    },
+    {
+      "game_id": 2713718,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368629992,
+      "team": "Hunters",
+      "opponent": "K-Espoo V",
+      "game_label": "K-Espoo V - Hunters",
+      "period": 2,
+      "game_time": "30:46",
+      "raw_event_index": 8,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

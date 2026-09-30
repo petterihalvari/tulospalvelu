@@ -1,0 +1,60 @@
+{
+  "person_id": 107242,
+  "name": "POGORELOVA Arina",
+  "first_name": "Arina",
+  "last_name": "POGORELOVA",
+  "player_ids": [
+    60975692
+  ],
+  "link_ids": [
+    "352683266097569245409677",
+    "614291116097569238628663"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707333,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368625973,
+      "opponent": "EVU Red",
+      "home_away": "away",
+      "jersey_number": "16",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2707351,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368628243,
+      "opponent": "KJT Haukat Blue",
+      "home_away": "away",
+      "jersey_number": "16",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

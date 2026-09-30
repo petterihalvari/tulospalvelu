@@ -1,0 +1,79 @@
+{
+  "person_id": 37226,
+  "name": "NIEMINEN Nelli",
+  "first_name": "Nelli",
+  "last_name": "NIEMINEN",
+  "player_ids": [
+    40171681
+  ],
+  "link_ids": [
+    "247349014017168169017164",
+    "527441644017168198824731",
+    "746588564017168144622804"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2706290,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630069,
+      "team": "HIFK JG",
+      "opponent_id": 1368629968,
+      "opponent": "K-Kissat Ak",
+      "home_away": "away",
+      "jersey_number": "34",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706308,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630069,
+      "team": "HIFK JG",
+      "opponent_id": 1368625330,
+      "opponent": "GrIFK Green",
+      "home_away": "away",
+      "jersey_number": "34",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706298,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630069,
+      "team": "HIFK JG",
+      "opponent_id": 1368630137,
+      "opponent": "Panter",
+      "home_away": "home",
+      "jersey_number": "34",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

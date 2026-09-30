@@ -1,0 +1,60 @@
+{
+  "person_id": 101277,
+  "name": "ZHZHONOV Lev",
+  "first_name": "Lev",
+  "last_name": "ZHZHONOV",
+  "player_ids": [
+    60876177
+  ],
+  "link_ids": [
+    "327990336087617726819535",
+    "880484236087617740054542"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710050,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630135,
+      "team": "Panter",
+      "opponent_id": 1368626051,
+      "opponent": "K-Espoo EKS II",
+      "home_away": "away",
+      "jersey_number": "24",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710073,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630135,
+      "team": "Panter",
+      "opponent_id": 1368626617,
+      "opponent": "K-Kissat Kissat",
+      "home_away": "away",
+      "jersey_number": "24",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

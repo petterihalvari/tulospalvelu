@@ -1,0 +1,84 @@
+{
+  "person_id": 70379,
+  "name": "MARTIKAINEN Taisto",
+  "first_name": "Taisto",
+  "last_name": "MARTIKAINEN",
+  "player_ids": [
+    60175790
+  ],
+  "link_ids": [
+    "467632316017579080411055",
+    "525913746017579012727106"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710102,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626032,
+      "team": "GrIFK White",
+      "opponent_id": 1368625975,
+      "opponent": "EVU White",
+      "home_away": "home",
+      "jersey_number": "14",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710129,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626032,
+      "team": "GrIFK White",
+      "opponent_id": 1368625985,
+      "opponent": "Ice Team",
+      "home_away": "away",
+      "jersey_number": "14",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710129,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626032,
+      "team": "GrIFK White",
+      "opponent": "Ice Team",
+      "game_label": "Ice Team - GrIFK White",
+      "period": 3,
+      "game_time": "30:55",
+      "raw_event_index": 16,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "second_assist",
+      "role_label": "2. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

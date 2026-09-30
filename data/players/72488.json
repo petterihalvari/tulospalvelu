@@ -1,0 +1,60 @@
+{
+  "person_id": 72488,
+  "name": "GAYER Edwin",
+  "first_name": "Edwin",
+  "last_name": "GAYER",
+  "player_ids": [
+    60178341
+  ],
+  "link_ids": [
+    "152930116017834165069185",
+    "190036946017834115362209"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710088,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626032,
+      "team": "GrIFK White",
+      "opponent_id": 1368626067,
+      "opponent": "Viikingit White",
+      "home_away": "away",
+      "jersey_number": "10",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710106,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626032,
+      "team": "GrIFK White",
+      "opponent_id": 1368626055,
+      "opponent": "K-Espoo EPS II",
+      "home_away": "away",
+      "jersey_number": "10",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

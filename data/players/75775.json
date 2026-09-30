@@ -1,0 +1,79 @@
+{
+  "person_id": 75775,
+  "name": "GRANATH Jasu",
+  "first_name": "Jasu",
+  "last_name": "GRANATH",
+  "player_ids": [
+    60350178
+  ],
+  "link_ids": [
+    "385673826035017818712286",
+    "511358946035017898714918",
+    "519427216035017868531109"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2706297,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368625330,
+      "team": "GrIFK Green",
+      "opponent_id": 1368624961,
+      "opponent": "K-Vantaa Akatemia",
+      "home_away": "away",
+      "jersey_number": "21",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706320,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368625330,
+      "team": "GrIFK Green",
+      "opponent_id": 1368625548,
+      "opponent": "K-Espoo IV",
+      "home_away": "home",
+      "jersey_number": "21",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706279,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368625330,
+      "team": "GrIFK Green",
+      "opponent_id": 1368627456,
+      "opponent": "KJT Haukat White",
+      "home_away": "home",
+      "jersey_number": "21",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

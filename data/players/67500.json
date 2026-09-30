@@ -1,0 +1,79 @@
+{
+  "person_id": 67500,
+  "name": "SANDSTRÖM Leonard",
+  "first_name": "Leonard",
+  "last_name": "SANDSTRÖM",
+  "player_ids": [
+    60407292
+  ],
+  "link_ids": [
+    "167755976040729276956319",
+    "541701406040729295244012",
+    "695989036040729246041042"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707396,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368627455,
+      "team": "KJT Haukat Blue",
+      "opponent_id": 1368624827,
+      "opponent": "HIFK",
+      "home_away": "home",
+      "jersey_number": "79",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706315,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368627456,
+      "team": "KJT Haukat White",
+      "opponent_id": 1368625330,
+      "opponent": "GrIFK Green",
+      "home_away": "home",
+      "jersey_number": "79",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706279,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368627456,
+      "team": "KJT Haukat White",
+      "opponent_id": 1368625330,
+      "opponent": "GrIFK Green",
+      "home_away": "away",
+      "jersey_number": "79",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

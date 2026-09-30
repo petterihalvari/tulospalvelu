@@ -1,0 +1,673 @@
+{
+  "GamesUpdate": [
+    {
+      "Id": 2706308,
+      "SubSerieID": 1925,
+      "SubSerieName": "U15 Valkoinen alkusarja, lohko 1a",
+      "LevelName": "U15 Valkoinen",
+      "LevelID": 94,
+      "StartDate": "13.09.2026",
+      "StartTime": "15:20:00",
+      "GameTime": 3600,
+      "Arena": "Kauniaisten jäähalli",
+      "RinkLatitude": "60.2219515",
+      "RinkLongitude": "24.6995926",
+      "LiveURL": "",
+      "LiveFeedSource": 4,
+      "OnlyStreamStorage": 1,
+      "StreamSources": [
+        {
+          "Id": 1,
+          "SourceName": "Leijonat TV",
+          "StreamUrl": null,
+          "LogoUrl": "https://d30yuo8vvcrfpu.cloudfront.net/stream-source-logos/Ru5Z0w_uidI.png",
+          "IsDefault": true
+        }
+      ],
+      "Spectators": 30,
+      "HomeTeam": {
+        "Name": "GrIFK Green",
+        "Goals": 3,
+        "Image": "10099085.png",
+        "Id": 1368625330,
+        "AssId": 10099085
+      },
+      "AwayTeam": {
+        "Name": "HIFK JG",
+        "Goals": 5,
+        "Image": "100038532.png",
+        "Id": 1368630069,
+        "AssId": 100038532
+      },
+      "GameStatus": 2,
+      "FinishedType": 1,
+      "GameRules": "60;0;3;20;0;0;0;5;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;2;0;5;0;0;0;0",
+      "Lang": [
+        {
+          "Langname": "FI",
+          "Flag": "fi",
+          "FlagPath": "fi.png"
+        },
+        {
+          "Langname": "EN",
+          "Flag": "en",
+          "FlagPath": "en.png"
+        }
+      ],
+      "RosterType": 0
+    }
+  ],
+  "GameLogsUpdate": [
+    {
+      "Type": "GK_start",
+      "TeamId": 1368625330,
+      "Period": 1,
+      "PlayerLinkID": "7159076310003361685774885",
+      "GoalkeeperJersey": 5,
+      "GoalkeeperName": "LINDÉN Matias",
+      "PreviousPlayerLinkID": "586731440000000033836277",
+      "PreviousGoalkeeperJersey": 0,
+      "PreviousGoalkeeperName": " ",
+      "GameTime": 0
+    },
+    {
+      "Type": "GK_start",
+      "TeamId": 1368630069,
+      "Period": 1,
+      "PlayerLinkID": "853606564017168154158489",
+      "GoalkeeperJersey": 34,
+      "GoalkeeperName": "NIEMINEN Nelli",
+      "PreviousPlayerLinkID": "772158510000000088807334",
+      "PreviousGoalkeeperJersey": 0,
+      "PreviousGoalkeeperName": " ",
+      "GameTime": 0
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368630069,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 32,
+      "Key": "Goal_8",
+      "ScorerLinkID": "722310774033684840555569",
+      "Ass1LinkID": "",
+      "Ass2LinkID": "",
+      "ScorerJersey": 22,
+      "ScorerName": "RIEKKINEN Ronja",
+      "FirstAssistJersey": 0,
+      "FirstAssistName": " ",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 0,
+      "AwayTeamGoals": 1,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368625330,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 958,
+      "Key": "Goal_58",
+      "ScorerLinkID": "186892444046446795796374",
+      "Ass1LinkID": "3579347510003335935352975",
+      "Ass2LinkID": "4276261410003361674823173",
+      "ScorerJersey": 50,
+      "ScorerName": "WESTERLUND Troy",
+      "FirstAssistJersey": 12,
+      "FirstAssistName": "VÄHÄSÖYRINKI Milla",
+      "SecondAssistJersey": 5,
+      "SecondAssistName": "LINDÉN Matias",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 1,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368625330,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1066,
+      "Key": "Goal_63",
+      "ScorerLinkID": "362266194046446757285423",
+      "Ass1LinkID": "8531912810003892189942033",
+      "Ass2LinkID": "",
+      "ScorerJersey": 50,
+      "ScorerName": "WESTERLUND Troy",
+      "FirstAssistJersey": 34,
+      "FirstAssistName": "PIKKARAINEN Julius",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 2,
+      "AwayTeamGoals": 1,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 1,
+      "PlayerLinkID": "7974483110003916899372111",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1141,
+      "SufferLinkID": "5588799110003916876087995",
+      "Jersey": 39,
+      "Name": "SIIVONEN Oskar",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 39,
+      "SuffererNames": "SIIVONEN Oskar",
+      "PenaltyReasonsFI": "Poikittainen maila",
+      "PenaltyReasonsEN": "Cross-Checking",
+      "PenaltyFaultCodes": 10,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "POI",
+      "Key": "Penalty_67"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368630069,
+      "Period": 1,
+      "PlayerLinkID": "403254464033052859013541",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1141,
+      "SufferLinkID": "202031034033052859763341",
+      "Jersey": 29,
+      "Name": "KÄHKÖNEN Rilla",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 29,
+      "SuffererNames": "KÄHKÖNEN Rilla",
+      "PenaltyReasonsFI": "Poikittainen maila",
+      "PenaltyReasonsEN": "Cross-Checking",
+      "PenaltyFaultCodes": 10,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "POI",
+      "Key": "Penalty_68"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 2,
+      "PlayerLinkID": "5140894610003916811263978",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1385,
+      "SufferLinkID": "8062047810003916878568879",
+      "Jersey": 39,
+      "Name": "SIIVONEN Oskar",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 39,
+      "SuffererNames": "SIIVONEN Oskar",
+      "PenaltyReasonsFI": "Sääntöjen vastainen taklaus",
+      "PenaltyReasonsEN": "Illegal Hit",
+      "PenaltyFaultCodes": 36,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "TAK",
+      "Key": "Penalty_95"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368630069,
+      "Period": 2,
+      "PlayerLinkID": "642375646058666653915068",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1565,
+      "SufferLinkID": "741090816058666626963845",
+      "Jersey": 23,
+      "Name": "LORENCE Kira",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 23,
+      "SuffererNames": "LORENCE Kira",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_109"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368630069,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1659,
+      "Key": "Goal_121",
+      "ScorerLinkID": "187702604033052856145701",
+      "Ass1LinkID": "",
+      "Ass2LinkID": "",
+      "ScorerJersey": 29,
+      "ScorerName": "KÄHKÖNEN Rilla",
+      "FirstAssistJersey": 0,
+      "FirstAssistName": " ",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "AV",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 2,
+      "AwayTeamGoals": 2,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368625330,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1857,
+      "Key": "Goal_136",
+      "ScorerLinkID": "4075223510003370083280477",
+      "Ass1LinkID": "759804516013829071226589",
+      "Ass2LinkID": "429647226026578610590312",
+      "ScorerJersey": 6,
+      "ScorerName": "GRÖNQVIST Vincent",
+      "FirstAssistJersey": 41,
+      "FirstAssistName": "TÖRÖ Aapo",
+      "SecondAssistJersey": 22,
+      "SecondAssistName": "LAAKSO Elias",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 3,
+      "AwayTeamGoals": 2,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368630069,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1973,
+      "Key": "Goal_142",
+      "ScorerLinkID": "183251994033684833089828",
+      "Ass1LinkID": "690032164012153331551378",
+      "Ass2LinkID": "",
+      "ScorerJersey": 22,
+      "ScorerName": "RIEKKINEN Ronja",
+      "FirstAssistJersey": 25,
+      "FirstAssistName": "HYYTIÄINEN Ida",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 3,
+      "AwayTeamGoals": 3,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368630069,
+      "Period": 2,
+      "PlayerLinkID": "956712004033525536769804",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2289,
+      "SufferLinkID": "342514794033525515259728",
+      "Jersey": 44,
+      "Name": "SINKKONEN Piritta",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 44,
+      "SuffererNames": "SINKKONEN Piritta",
+      "PenaltyReasonsFI": "Koukkaaminen",
+      "PenaltyReasonsEN": "Hooking",
+      "PenaltyFaultCodes": 16,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KOU",
+      "Key": "Penalty_158"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368630069,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2535,
+      "Key": "Goal_183",
+      "ScorerLinkID": "530572834033684844013923",
+      "Ass1LinkID": "118690504033052855123339",
+      "Ass2LinkID": "461045564018967480008103",
+      "ScorerJersey": 22,
+      "ScorerName": "RIEKKINEN Ronja",
+      "FirstAssistJersey": 29,
+      "FirstAssistName": "KÄHKÖNEN Rilla",
+      "SecondAssistJersey": 68,
+      "SecondAssistName": "JÄÄSKELÄINEN Anna",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 3,
+      "AwayTeamGoals": 4,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 3,
+      "PlayerLinkID": "7240486710003370015501972",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2648,
+      "SufferLinkID": "7606559510003370043965978",
+      "Jersey": 6,
+      "Name": "GRÖNQVIST Vincent",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 6,
+      "SuffererNames": "GRÖNQVIST Vincent",
+      "PenaltyReasonsFI": "Poikittainen maila",
+      "PenaltyReasonsEN": "Cross-Checking",
+      "PenaltyFaultCodes": 10,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "POI",
+      "Key": "Penalty_189"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 3,
+      "PlayerLinkID": "516337850000000078500204",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2884,
+      "SufferLinkID": "4476022110004740721615433",
+      "Jersey": 0,
+      "Name": "null null",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 8,
+      "SuffererNames": "SALO Kasper",
+      "PenaltyReasonsFI": "Liian monta pelaajaa jäällä",
+      "PenaltyReasonsEN": "Too Many Players",
+      "PenaltyFaultCodes": 25,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "JR",
+      "Key": "Penalty_199"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368630069,
+      "Period": 3,
+      "PlayerLinkID": "652208664033684837601450",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3122,
+      "SufferLinkID": "298393954033684847311261",
+      "Jersey": 22,
+      "Name": "RIEKKINEN Ronja",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 22,
+      "SuffererNames": "RIEKKINEN Ronja",
+      "PenaltyReasonsFI": "Koukkaaminen",
+      "PenaltyReasonsEN": "Hooking",
+      "PenaltyFaultCodes": 16,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KOU",
+      "Key": "Penalty_211"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368630069,
+      "Period": 3,
+      "PlayerLinkID": "266576834012153353433208",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3284,
+      "SufferLinkID": "514883334012153393582863",
+      "Jersey": 25,
+      "Name": "HYYTIÄINEN Ida",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 25,
+      "SuffererNames": "HYYTIÄINEN Ida",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_218"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368630069,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3502,
+      "Key": "Goal_236",
+      "ScorerLinkID": "170749174033684877388434",
+      "Ass1LinkID": "923918324033052863031625",
+      "Ass2LinkID": "264717624012153314611345",
+      "ScorerJersey": 22,
+      "ScorerName": "RIEKKINEN Ronja",
+      "FirstAssistJersey": 29,
+      "FirstAssistName": "KÄHKÖNEN Rilla",
+      "SecondAssistJersey": 25,
+      "SecondAssistName": "HYYTIÄINEN Ida",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 3,
+      "AwayTeamGoals": 5,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 3,
+      "PlayerLinkID": "4140880710003370057460722",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3572,
+      "SufferLinkID": "2575363310003370086046391",
+      "Jersey": 6,
+      "Name": "GRÖNQVIST Vincent",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 6,
+      "SuffererNames": "GRÖNQVIST Vincent",
+      "PenaltyReasonsFI": "Poikittainen maila",
+      "PenaltyReasonsEN": "Cross-Checking",
+      "PenaltyFaultCodes": 10,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "POI",
+      "Key": "Penalty_244"
+    }
+  ],
+  "WinningShots": [],
+  "Referees": [
+    {
+      "RefereeRole": "Erotuomari",
+      "RefereeName": "AHLFORS Lukas"
+    },
+    {
+      "RefereeRole": "Erotuomari",
+      "RefereeName": "PAJUNEN Lauri"
+    }
+  ],
+  "PeriodSummary": {
+    "PlayedPeriods": 3,
+    "PeriodGoals": [
+      {
+        "Goals": "2-1"
+      },
+      {
+        "Goals": "1-2"
+      },
+      {
+        "Goals": "0-2"
+      },
+      {
+        "Goals": "3-5"
+      }
+    ],
+    "PeriodSaves": [
+      {
+        "Saves": "10-8"
+      },
+      {
+        "Saves": "7-14"
+      },
+      {
+        "Saves": "10-12"
+      },
+      {
+        "Saves": "27-34"
+      }
+    ],
+    "PeriodPenMins": [
+      {
+        "PenMins": "2-2"
+      },
+      {
+        "PenMins": "2-4"
+      },
+      {
+        "PenMins": "6-4"
+      },
+      {
+        "PenMins": "10-10"
+      }
+    ],
+    "PeriodPPMins": [
+      {
+        "PPMins": "00:00-00:00"
+      },
+      {
+        "PPMins": "03:51-02:00"
+      },
+      {
+        "PPMins": "04:09-04:28"
+      },
+      {
+        "PPMins": "08:00-06:28"
+      }
+    ],
+    "PeriodPPGoals": [
+      {
+        "PPGoals": "0-0"
+      },
+      {
+        "PPGoals": "0-0"
+      },
+      {
+        "PPGoals": "0-0"
+      },
+      {
+        "PPGoals": "0-0"
+      }
+    ],
+    "PeriodSHGoals": [
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-1"
+      },
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-1"
+      }
+    ]
+  },
+  "GoalkeeperSummary": [
+    {
+      "TeamName": "GrIFK Green",
+      "TeamGoalkeepers": [
+        {
+          "GkName": "LINDÉN Matias",
+          "GkJersey": 5,
+          "PlayerLinkID": "9987586510003361630032954",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 10
+            },
+            {
+              "Period": 2,
+              "Saves": 7
+            },
+            {
+              "Period": 3,
+              "Saves": 10
+            },
+            {
+              "Period": 0,
+              "Saves": 27
+            }
+          ],
+          "GkChanges": [],
+          "GkOut": []
+        }
+      ]
+    },
+    {
+      "TeamName": "HIFK JG",
+      "TeamGoalkeepers": [
+        {
+          "GkName": "NIEMINEN Nelli",
+          "GkJersey": 34,
+          "PlayerLinkID": "166598164017168142102686",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 8
+            },
+            {
+              "Period": 2,
+              "Saves": 14
+            },
+            {
+              "Period": 3,
+              "Saves": 12
+            },
+            {
+              "Period": 0,
+              "Saves": 34
+            }
+          ],
+          "GkChanges": [],
+          "GkOut": []
+        }
+      ]
+    }
+  ],
+  "UsersInfo": [],
+  "GameSettings": {
+    "playerDetails": false,
+    "playerStatistics": true,
+    "goalieStatistics": true,
+    "teamStatistics": true
+  }
+}

@@ -1,0 +1,733 @@
+{
+  "GamesUpdate": [
+    {
+      "Id": 2706297,
+      "SubSerieID": 1925,
+      "SubSerieName": "U15 Valkoinen alkusarja, lohko 1a",
+      "LevelName": "U15 Valkoinen",
+      "LevelID": 94,
+      "StartDate": "06.09.2026",
+      "StartTime": "16:25:00",
+      "GameTime": 3600,
+      "Arena": "Kuljetusrinki Areena",
+      "RinkLatitude": "60.3000532",
+      "RinkLongitude": "25.0294733",
+      "LiveURL": "",
+      "LiveFeedSource": 4,
+      "OnlyStreamStorage": 1,
+      "StreamSources": [
+        {
+          "Id": 1,
+          "SourceName": "Leijonat TV",
+          "StreamUrl": null,
+          "LogoUrl": "https://d30yuo8vvcrfpu.cloudfront.net/stream-source-logos/Ru5Z0w_uidI.png",
+          "IsDefault": true
+        }
+      ],
+      "Spectators": 46,
+      "HomeTeam": {
+        "Name": "K-Vantaa Akatemia",
+        "Goals": 7,
+        "Image": "10115147.png",
+        "Id": 1368624961,
+        "AssId": 10115147
+      },
+      "AwayTeam": {
+        "Name": "GrIFK Green",
+        "Goals": 1,
+        "Image": "10099085.png",
+        "Id": 1368625330,
+        "AssId": 10099085
+      },
+      "GameStatus": 2,
+      "FinishedType": 1,
+      "GameRules": "60;0;3;20;0;0;0;5;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;2;0;5;0;0;0;0",
+      "Lang": [
+        {
+          "Langname": "FI",
+          "Flag": "fi",
+          "FlagPath": "fi.png"
+        },
+        {
+          "Langname": "EN",
+          "Flag": "en",
+          "FlagPath": "en.png"
+        }
+      ],
+      "RosterType": 0
+    }
+  ],
+  "GameLogsUpdate": [
+    {
+      "Type": "GK_start",
+      "TeamId": 1368624961,
+      "Period": 1,
+      "PlayerLinkID": "389231156043940820767391",
+      "GoalkeeperJersey": 30,
+      "GoalkeeperName": "METTÄLÄ Emil",
+      "PreviousPlayerLinkID": "628744210000000068974860",
+      "PreviousGoalkeeperJersey": 0,
+      "PreviousGoalkeeperName": " ",
+      "GameTime": 0
+    },
+    {
+      "Type": "GK_start",
+      "TeamId": 1368625330,
+      "Period": 1,
+      "PlayerLinkID": "293258426030641176144917",
+      "GoalkeeperJersey": 36,
+      "GoalkeeperName": "KÖYKKÄRI Oliver",
+      "PreviousPlayerLinkID": "297326860000000097274855",
+      "PreviousGoalkeeperJersey": 0,
+      "PreviousGoalkeeperName": " ",
+      "GameTime": 0
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 1,
+      "PlayerLinkID": "5427939310004741142463506",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 21,
+      "SufferLinkID": "6053715310004741192376461",
+      "Jersey": 37,
+      "Name": "ROMPPANEN Max",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 37,
+      "SuffererNames": "ROMPPANEN Max",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_8"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 1,
+      "PlayerLinkID": "8042666010003335968662850",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 312,
+      "SufferLinkID": "5324166310003335973605803",
+      "Jersey": 12,
+      "Name": "VÄHÄSÖYRINKI Milla",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 12,
+      "SuffererNames": "VÄHÄSÖYRINKI Milla",
+      "PenaltyReasonsFI": "Koukkaaminen",
+      "PenaltyReasonsEN": "Hooking",
+      "PenaltyFaultCodes": 16,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KOU",
+      "Key": "Penalty_24"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368624961,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 360,
+      "Key": "Goal_31",
+      "ScorerLinkID": "982200906047638858038502",
+      "Ass1LinkID": "815752456039714278172333",
+      "Ass2LinkID": "",
+      "ScorerJersey": 23,
+      "ScorerName": "DULKIN Mark",
+      "FirstAssistJersey": 37,
+      "FirstAssistName": "ADAMBERG Lucas",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "YV",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 1,
+      "AwayTeamGoals": 0,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 1,
+      "PlayerLinkID": "4047470410003361568197564",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 684,
+      "SufferLinkID": "7338263810003361560022146",
+      "Jersey": 30,
+      "Name": "RANTANEN Luka",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 30,
+      "SuffererNames": "RANTANEN Luka",
+      "PenaltyReasonsFI": "Ryntäys",
+      "PenaltyReasonsEN": "Charging",
+      "PenaltyFaultCodes": 9,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "RYN",
+      "Key": "Penalty_41"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368624961,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 756,
+      "Key": "Goal_48",
+      "ScorerLinkID": "880427504046242681803701",
+      "Ass1LinkID": "",
+      "Ass2LinkID": "",
+      "ScorerJersey": 51,
+      "ScorerName": "KYLANDER Evert",
+      "FirstAssistJersey": 0,
+      "FirstAssistName": " ",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "YV",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 2,
+      "AwayTeamGoals": 0,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 1,
+      "PlayerLinkID": "452542266026578679333860",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 929,
+      "SufferLinkID": "503414916026578636264637",
+      "Jersey": 40,
+      "Name": "LAAKSO Elias",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 40,
+      "SuffererNames": "LAAKSO Elias",
+      "PenaltyReasonsFI": "Sääntöjen vastainen taklaus",
+      "PenaltyReasonsEN": "Illegal Hit",
+      "PenaltyFaultCodes": 36,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "TAK",
+      "Key": "Penalty_62"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368624961,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1191,
+      "Key": "Goal_76",
+      "ScorerLinkID": "6382859810003499667985144",
+      "Ass1LinkID": "2356315010003550570949928",
+      "Ass2LinkID": "",
+      "ScorerJersey": 7,
+      "ScorerName": "MYLLYMÄKI Hugo",
+      "FirstAssistJersey": 24,
+      "FirstAssistName": "TOIVONIEMI Robin",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 3,
+      "AwayTeamGoals": 0,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368624961,
+      "Period": 2,
+      "PlayerLinkID": "307450424046242692542520",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1375,
+      "SufferLinkID": "502198534046242668382283",
+      "Jersey": 51,
+      "Name": "KYLANDER Evert",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 51,
+      "SuffererNames": "KYLANDER Evert",
+      "PenaltyReasonsFI": "Sääntöjen vastainen taklaus",
+      "PenaltyReasonsEN": "Illegal Hit",
+      "PenaltyFaultCodes": 36,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "TAK",
+      "Key": "Penalty_91"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 2,
+      "PlayerLinkID": "814252066026578665303372",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1451,
+      "SufferLinkID": "341452496026578687807638",
+      "Jersey": 40,
+      "Name": "LAAKSO Elias",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 40,
+      "SuffererNames": "LAAKSO Elias",
+      "PenaltyReasonsFI": "Koukkaaminen",
+      "PenaltyReasonsEN": "Hooking",
+      "PenaltyFaultCodes": 16,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KOU",
+      "Key": "Penalty_96"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368624961,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1620,
+      "Key": "Goal_103",
+      "ScorerLinkID": "4632737510003667240812411",
+      "Ass1LinkID": "3207799010003380294518211",
+      "Ass2LinkID": "",
+      "ScorerJersey": 88,
+      "ScorerName": "NASKALI Niklas",
+      "FirstAssistJersey": 4,
+      "FirstAssistName": "VOITTONEN Aarne",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 4,
+      "AwayTeamGoals": 0,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368624961,
+      "Period": 2,
+      "PlayerLinkID": "845504370000000036158624",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1703,
+      "SufferLinkID": "5478199310003744912275451",
+      "Jersey": 0,
+      "Name": "null null",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 14,
+      "SuffererNames": "PETRELL Milan",
+      "PenaltyReasonsFI": "Liian monta pelaajaa jäällä",
+      "PenaltyReasonsEN": "Too Many Players",
+      "PenaltyFaultCodes": 25,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "JR",
+      "Key": "Penalty_107"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 2,
+      "PlayerLinkID": "426798396025523595099099",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1781,
+      "SufferLinkID": "800283306025523598099357",
+      "Jersey": 14,
+      "Name": "RIMPILÄINEN Linus",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 14,
+      "SuffererNames": "RIMPILÄINEN Linus",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_110"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368624961,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2197,
+      "Key": "Goal_134",
+      "ScorerLinkID": "185063236037412594842225",
+      "Ass1LinkID": "451453806039714283055042",
+      "Ass2LinkID": "",
+      "ScorerJersey": 15,
+      "ScorerName": "HOKKANEN Alex",
+      "FirstAssistJersey": 37,
+      "FirstAssistName": "ADAMBERG Lucas",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 5,
+      "AwayTeamGoals": 0,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 2,
+      "PlayerLinkID": "954845566019967843041258",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2274,
+      "SufferLinkID": "536328206019967872174910",
+      "Jersey": 97,
+      "Name": "HIRVONEN Valtti",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 97,
+      "SuffererNames": "HIRVONEN Valtti",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_140"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368624961,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2437,
+      "Key": "Goal_151",
+      "ScorerLinkID": "8838582310003667295998673",
+      "Ass1LinkID": "7700745510003380284217247",
+      "Ass2LinkID": "9394298010003550511245005",
+      "ScorerJersey": 88,
+      "ScorerName": "NASKALI Niklas",
+      "FirstAssistJersey": 4,
+      "FirstAssistName": "VOITTONEN Aarne",
+      "SecondAssistJersey": 24,
+      "SecondAssistName": "TOIVONIEMI Robin",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 6,
+      "AwayTeamGoals": 0,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368624961,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2730,
+      "Key": "Goal_165",
+      "ScorerLinkID": "8186074810003744987711162",
+      "Ass1LinkID": "704100924046242658409343",
+      "Ass2LinkID": "",
+      "ScorerJersey": 14,
+      "ScorerName": "PETRELL Milan",
+      "FirstAssistJersey": 51,
+      "FirstAssistName": "KYLANDER Evert",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 7,
+      "AwayTeamGoals": 0,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368624961,
+      "Period": 3,
+      "PlayerLinkID": "3215929510003744957889176",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2808,
+      "SufferLinkID": "5477734710003744920094693",
+      "Jersey": 14,
+      "Name": "PETRELL Milan",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 14,
+      "SuffererNames": "PETRELL Milan",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_173"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368624961,
+      "Period": 3,
+      "PlayerLinkID": "1260227010003424698474560",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3225,
+      "SufferLinkID": "2255115010003424698841439",
+      "Jersey": 55,
+      "Name": "MIETTINEN Onni",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 55,
+      "SuffererNames": "MIETTINEN Onni",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_188"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368625330,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3353,
+      "Key": "Goal_192",
+      "ScorerLinkID": "8377470410004741167509555",
+      "Ass1LinkID": "727159306026578651555496",
+      "Ass2LinkID": "",
+      "ScorerJersey": 37,
+      "ScorerName": "ROMPPANEN Max",
+      "FirstAssistJersey": 40,
+      "FirstAssistName": "LAAKSO Elias",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 7,
+      "AwayTeamGoals": 1,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368625330,
+      "Period": 3,
+      "PlayerLinkID": "6893738310003885780529100",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 3363,
+      "SufferLinkID": "8667974310003885758667594",
+      "Jersey": 91,
+      "Name": "JÄPPINEN Elias",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 91,
+      "SuffererNames": "JÄPPINEN Elias",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_197"
+    },
+    {
+      "Type": "GK_out",
+      "TeamId": 1368625330,
+      "Period": 3,
+      "PlayerLinkID": "804309720000000025404446",
+      "GoalkeeperJersey": 0,
+      "GoalkeeperName": " ",
+      "PreviousPlayerLinkID": "542467106030641138642051",
+      "PreviousGoalkeeperJersey": 36,
+      "PreviousGoalkeeperName": "KÖYKKÄRI Oliver",
+      "GameTime": 3595
+    }
+  ],
+  "WinningShots": [],
+  "Referees": [
+    {
+      "RefereeRole": "Erotuomari",
+      "RefereeName": "CHANDLA Sanat"
+    },
+    {
+      "RefereeRole": "Erotuomari",
+      "RefereeName": "FELT Joonas"
+    }
+  ],
+  "PeriodSummary": {
+    "PlayedPeriods": 3,
+    "PeriodGoals": [
+      {
+        "Goals": "3-0"
+      },
+      {
+        "Goals": "2-0"
+      },
+      {
+        "Goals": "2-1"
+      },
+      {
+        "Goals": "7-1"
+      }
+    ],
+    "PeriodSaves": [
+      {
+        "Saves": "5-21"
+      },
+      {
+        "Saves": "8-16"
+      },
+      {
+        "Saves": "3-19"
+      },
+      {
+        "Saves": "16-56"
+      }
+    ],
+    "PeriodPenMins": [
+      {
+        "PenMins": "0-8"
+      },
+      {
+        "PenMins": "4-6"
+      },
+      {
+        "PenMins": "4-2"
+      },
+      {
+        "PenMins": "8-16"
+      }
+    ],
+    "PeriodPPMins": [
+      {
+        "PPMins": "06:00-00:00"
+      },
+      {
+        "PPMins": "04:34-02:34"
+      },
+      {
+        "PPMins": "02:00-04:00"
+      },
+      {
+        "PPMins": "12:34-06:34"
+      }
+    ],
+    "PeriodPPGoals": [
+      {
+        "PPGoals": "2-0"
+      },
+      {
+        "PPGoals": "0-0"
+      },
+      {
+        "PPGoals": "0-0"
+      },
+      {
+        "PPGoals": "2-0"
+      }
+    ],
+    "PeriodSHGoals": [
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-0"
+      }
+    ]
+  },
+  "GoalkeeperSummary": [
+    {
+      "TeamName": "K-Vantaa Akatemia",
+      "TeamGoalkeepers": [
+        {
+          "GkName": "METTÄLÄ Emil",
+          "GkJersey": 30,
+          "PlayerLinkID": "925234986043940829135488",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 5
+            },
+            {
+              "Period": 2,
+              "Saves": 8
+            },
+            {
+              "Period": 3,
+              "Saves": 3
+            },
+            {
+              "Period": 0,
+              "Saves": 16
+            }
+          ],
+          "GkChanges": [],
+          "GkOut": []
+        }
+      ]
+    },
+    {
+      "TeamName": "GrIFK Green",
+      "TeamGoalkeepers": [
+        {
+          "GkName": "KÖYKKÄRI Oliver",
+          "GkJersey": 36,
+          "PlayerLinkID": "246665156030641115462797",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 21
+            },
+            {
+              "Period": 2,
+              "Saves": 16
+            },
+            {
+              "Period": 3,
+              "Saves": 19
+            },
+            {
+              "Period": 0,
+              "Saves": 56
+            }
+          ],
+          "GkChanges": [],
+          "GkOut": [
+            {
+              "Time": "59:55-60:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "UsersInfo": [],
+  "GameSettings": {
+    "playerDetails": false,
+    "playerStatistics": true,
+    "goalieStatistics": true,
+    "teamStatistics": true
+  }
+}

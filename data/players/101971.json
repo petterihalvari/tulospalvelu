@@ -1,0 +1,98 @@
+{
+  "person_id": 101971,
+  "name": "PALM Rasmus",
+  "first_name": "Rasmus",
+  "last_name": "PALM",
+  "player_ids": [
+    60882163
+  ],
+  "link_ids": [
+    "133914416088216364522856",
+    "332467076088216348992943",
+    "725954746088216341670662",
+    "981993586088216353987417"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2706303,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630137,
+      "team": "Panter",
+      "opponent_id": 1368627456,
+      "opponent": "KJT Haukat White",
+      "home_away": "away",
+      "jersey_number": "81",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2706316,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630137,
+      "team": "Panter",
+      "opponent_id": 1368625825,
+      "opponent": "HAKI Blue",
+      "home_away": "away",
+      "jersey_number": "81",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2706298,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630137,
+      "team": "Panter",
+      "opponent_id": 1368630069,
+      "opponent": "HIFK JG",
+      "home_away": "away",
+      "jersey_number": "55",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2706325,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630137,
+      "team": "Panter",
+      "opponent_id": 1368629975,
+      "opponent": "Ice Force Purple",
+      "home_away": "away",
+      "jersey_number": "55",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

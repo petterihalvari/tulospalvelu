@@ -1,0 +1,107 @@
+{
+  "person_id": 81153,
+  "name": "MYLLYVUORI Miko",
+  "first_name": "Miko",
+  "last_name": "MYLLYVUORI",
+  "player_ids": [
+    100037298
+  ],
+  "link_ids": [
+    "3036358110003729855399308",
+    "4963280010003729897352144"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2713715,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368627458,
+      "team": "KJT Haukat Black",
+      "opponent_id": 1368630007,
+      "opponent": "Ice Force Gold",
+      "home_away": "away",
+      "jersey_number": "57",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713722,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368627458,
+      "team": "KJT Haukat Black",
+      "opponent_id": 1368625523,
+      "opponent": "K-Espoo V",
+      "home_away": "home",
+      "jersey_number": "57",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713722,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368627458,
+      "team": "KJT Haukat Black",
+      "opponent": "K-Espoo V",
+      "game_label": "KJT Haukat Black - K-Espoo V",
+      "period": 2,
+      "game_time": "39:09",
+      "raw_event_index": 9,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "first_assist",
+      "role_label": "1. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    },
+    {
+      "game_id": 2713722,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368627458,
+      "team": "KJT Haukat Black",
+      "opponent": "K-Espoo V",
+      "game_label": "KJT Haukat Black - K-Espoo V",
+      "period": 3,
+      "game_time": "57:20",
+      "raw_event_index": 15,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Kiinnipitäminen"
+    }
+  ]
+}

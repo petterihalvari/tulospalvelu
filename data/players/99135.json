@@ -1,0 +1,122 @@
+{
+  "person_id": 99135,
+  "name": "GÄDDA Nils",
+  "first_name": "Nils",
+  "last_name": "GÄDDA",
+  "player_ids": [
+    60412513
+  ],
+  "link_ids": [
+    "260381296041251347936778",
+    "395807526041251335480095",
+    "750233816041251363798926",
+    "981870346041251360388052"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710063,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626051,
+      "team": "K-Espoo EKS II",
+      "opponent_id": 1368626071,
+      "opponent": "HJK Blue",
+      "home_away": "away",
+      "jersey_number": "92",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710035,
+      "date": "14.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626051,
+      "team": "K-Espoo EKS II",
+      "opponent_id": 1368628825,
+      "opponent": "Ice Force",
+      "home_away": "home",
+      "jersey_number": "92",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710027,
+      "date": "21.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626051,
+      "team": "K-Espoo EKS II",
+      "opponent_id": 1368626071,
+      "opponent": "HJK Blue",
+      "home_away": "home",
+      "jersey_number": "92",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710050,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626051,
+      "team": "K-Espoo EKS II",
+      "opponent_id": 1368630135,
+      "opponent": "Panter",
+      "home_away": "home",
+      "jersey_number": "92",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710035,
+      "date": "14.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626051,
+      "team": "K-Espoo EKS II",
+      "opponent": "Ice Force",
+      "game_label": "K-Espoo EKS II - Ice Force",
+      "period": 2,
+      "game_time": "25:49",
+      "raw_event_index": 11,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

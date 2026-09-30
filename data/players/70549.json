@@ -1,0 +1,60 @@
+{
+  "person_id": 70549,
+  "name": "LUUKKAINEN Eero",
+  "first_name": "Eero",
+  "last_name": "LUUKKAINEN",
+  "player_ids": [
+    100040922
+  ],
+  "link_ids": [
+    "3174943010004092290299532",
+    "9848914610004092285684054"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2706290,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368629968,
+      "team": "K-Kissat Ak",
+      "opponent_id": 1368630069,
+      "opponent": "HIFK JG",
+      "home_away": "home",
+      "jersey_number": "41",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2706278,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368629968,
+      "team": "K-Kissat Ak",
+      "opponent_id": 1368624961,
+      "opponent": "K-Vantaa Akatemia",
+      "home_away": "home",
+      "jersey_number": "41",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": "A"
+    }
+  ],
+  "events": []
+}

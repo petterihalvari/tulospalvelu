@@ -1,0 +1,98 @@
+{
+  "person_id": 101286,
+  "name": "PETROVITS Erik",
+  "first_name": "Erik",
+  "last_name": "PETROVITS",
+  "player_ids": [
+    60876130
+  ],
+  "link_ids": [
+    "296163986087613081156880",
+    "398441996087613060760376",
+    "599340766087613024160907",
+    "724703866087613080565458"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707333,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368625973,
+      "opponent": "EVU Red",
+      "home_away": "away",
+      "jersey_number": "97",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2707351,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368628243,
+      "opponent": "KJT Haukat Blue",
+      "home_away": "away",
+      "jersey_number": "97",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2707315,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368628243,
+      "opponent": "KJT Haukat Blue",
+      "home_away": "away",
+      "jersey_number": "97",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2707342,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628293,
+      "team": "Vipers",
+      "opponent_id": 1368625993,
+      "opponent": "K-Kissat Bears",
+      "home_away": "away",
+      "jersey_number": "97",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

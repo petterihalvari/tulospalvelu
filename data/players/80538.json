@@ -1,0 +1,60 @@
+{
+  "person_id": 80538,
+  "name": "PEIPONEN Johannes",
+  "first_name": "Johannes",
+  "last_name": "PEIPONEN",
+  "player_ids": [
+    100047268
+  ],
+  "link_ids": [
+    "1723875310004726865426964",
+    "6636838210004726833099177"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710063,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626051,
+      "team": "K-Espoo EKS II",
+      "opponent_id": 1368626071,
+      "opponent": "HJK Blue",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2707297,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 1512,
+      "subserie": "U14 Sininen alkusarja, lohko 1a",
+      "team_id": 1368626050,
+      "team": "K-Espoo EKS I",
+      "opponent_id": 1368626303,
+      "opponent": "HAKI Blue",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

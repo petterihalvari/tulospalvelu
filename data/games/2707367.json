@@ -1,0 +1,556 @@
+{
+  "GamesUpdate": [
+    {
+      "Id": 2707367,
+      "SubSerieID": 4906,
+      "SubSerieName": "U14 Sininen alkusarja, lohko 1b",
+      "LevelName": "U14 Sininen",
+      "LevelID": 97,
+      "StartDate": "26.09.2026",
+      "StartTime": "17:25:00",
+      "GameTime": 2700,
+      "Arena": "Espoonlahden harj.halli",
+      "RinkLatitude": "60.148491",
+      "RinkLongitude": "24.663678",
+      "LiveURL": "",
+      "LiveFeedSource": 4,
+      "OnlyStreamStorage": 1,
+      "StreamSources": [
+        {
+          "Id": 1,
+          "SourceName": "Leijonat TV",
+          "StreamUrl": null,
+          "LogoUrl": "https://d30yuo8vvcrfpu.cloudfront.net/stream-source-logos/Ru5Z0w_uidI.png",
+          "IsDefault": true
+        }
+      ],
+      "Spectators": 53,
+      "HomeTeam": {
+        "Name": "K-Espoo EPS I",
+        "Goals": 0,
+        "Image": "100026957.png",
+        "Id": 1368626054,
+        "AssId": 100026957
+      },
+      "AwayTeam": {
+        "Name": "Jokerit Valkoinen",
+        "Goals": 4,
+        "Image": "10115710.png",
+        "Id": 1368626118,
+        "AssId": 10115710
+      },
+      "GameStatus": 2,
+      "FinishedType": 1,
+      "GameRules": "45;0;3;15;0;0;0;5;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;2;0;5;0;1;0;0",
+      "Lang": [
+        {
+          "Langname": "FI",
+          "Flag": "fi",
+          "FlagPath": "fi.png"
+        },
+        {
+          "Langname": "EN",
+          "Flag": "en",
+          "FlagPath": "en.png"
+        }
+      ],
+      "RosterType": 0
+    }
+  ],
+  "GameLogsUpdate": [
+    {
+      "Type": "GK_start",
+      "TeamId": 1368626054,
+      "Period": 1,
+      "PlayerLinkID": "847107706047458538793180",
+      "GoalkeeperJersey": 1,
+      "GoalkeeperName": "TAPANILA Olavi",
+      "PreviousPlayerLinkID": "934261740000000044437401",
+      "PreviousGoalkeeperJersey": 0,
+      "PreviousGoalkeeperName": " ",
+      "GameTime": 0
+    },
+    {
+      "Type": "GK_start",
+      "TeamId": 1368626118,
+      "Period": 1,
+      "PlayerLinkID": "618587766043611181553564",
+      "GoalkeeperJersey": 30,
+      "GoalkeeperName": "SAKSA Mio",
+      "PreviousPlayerLinkID": "405321430000000012054485",
+      "PreviousGoalkeeperJersey": 0,
+      "PreviousGoalkeeperName": " ",
+      "GameTime": 0
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626054,
+      "Period": 1,
+      "PlayerLinkID": "497043536058592260392716",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 54,
+      "SufferLinkID": "481812266058592223385433",
+      "Jersey": 59,
+      "Name": "LAMPI Lukas",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 59,
+      "SuffererNames": "LAMPI Lukas",
+      "PenaltyReasonsFI": "Ryntäys",
+      "PenaltyReasonsEN": "Charging",
+      "PenaltyFaultCodes": 9,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "RYN",
+      "Key": "Penalty_8"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626118,
+      "Period": 1,
+      "PlayerLinkID": "786988786035004164409146",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 624,
+      "SufferLinkID": "458741326035004110026247",
+      "Jersey": 10,
+      "Name": "KEKKONEN Leo",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 10,
+      "SuffererNames": "KEKKONEN Leo",
+      "PenaltyReasonsFI": "Koukkaaminen",
+      "PenaltyReasonsEN": "Hooking",
+      "PenaltyFaultCodes": 16,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KOU",
+      "Key": "Penalty_31"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626118,
+      "Period": 1,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 830,
+      "Key": "Goal_35",
+      "ScorerLinkID": "380919426029597853531305",
+      "Ass1LinkID": "668319676034166099763734",
+      "Ass2LinkID": "",
+      "ScorerJersey": 35,
+      "ScorerName": "TAPIO Peik",
+      "FirstAssistJersey": 3,
+      "FirstAssistName": "HÖRI Mico",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 0,
+      "AwayTeamGoals": 1,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626054,
+      "Period": 2,
+      "PlayerLinkID": "348966606030170473593965",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 963,
+      "SufferLinkID": "203171406030170493159431",
+      "Jersey": 87,
+      "Name": "KOSKIMIES Gabriel",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 87,
+      "SuffererNames": "KOSKIMIES Gabriel",
+      "PenaltyReasonsFI": "Huitominen",
+      "PenaltyReasonsEN": "Slashing",
+      "PenaltyFaultCodes": 18,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "HUI",
+      "Key": "Penalty_47"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626054,
+      "Period": 2,
+      "PlayerLinkID": "718174856058592221296264",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1084,
+      "SufferLinkID": "963594186058592242915023",
+      "Jersey": 59,
+      "Name": "LAMPI Lukas",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 59,
+      "SuffererNames": "LAMPI Lukas",
+      "PenaltyReasonsFI": "Huitominen",
+      "PenaltyReasonsEN": "Slashing",
+      "PenaltyFaultCodes": 18,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "HUI",
+      "Key": "Penalty_54"
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626118,
+      "Period": 2,
+      "PlayerLinkID": "178607736054758299145769",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1217,
+      "SufferLinkID": "112406216054758253822280",
+      "Jersey": 27,
+      "Name": "HOKKANEN Hermann",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 27,
+      "SuffererNames": "HOKKANEN Hermann",
+      "PenaltyReasonsFI": "Kampitus",
+      "PenaltyReasonsEN": "Tripping",
+      "PenaltyFaultCodes": 21,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "KAM",
+      "Key": "Penalty_58"
+    },
+    {
+      "Type": "Timeout",
+      "TeamId": 1368626054,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1548
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626118,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1699,
+      "Key": "Goal_79",
+      "ScorerLinkID": "790346336029617565735650",
+      "Ass1LinkID": "514941726035207837782319",
+      "Ass2LinkID": "634630356039499242142007",
+      "ScorerJersey": 16,
+      "ScorerName": "MÄNTYNIEMI Lasse",
+      "FirstAssistJersey": 28,
+      "FirstAssistName": "LEPISTÖ Samuli",
+      "SecondAssistJersey": 36,
+      "SecondAssistName": "KORPI Sisu",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 0,
+      "AwayTeamGoals": 2,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626118,
+      "Period": 2,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1711,
+      "Key": "Goal_87",
+      "ScorerLinkID": "912138816029617582948215",
+      "Ass1LinkID": "380526306035207816990863",
+      "Ass2LinkID": "808622966039499217710496",
+      "ScorerJersey": 16,
+      "ScorerName": "MÄNTYNIEMI Lasse",
+      "FirstAssistJersey": 28,
+      "FirstAssistName": "LEPISTÖ Samuli",
+      "SecondAssistJersey": 36,
+      "SecondAssistName": "KORPI Sisu",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 0,
+      "AwayTeamGoals": 3,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626054,
+      "Period": 2,
+      "PlayerLinkID": "270409606032312531208530",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 1775,
+      "SufferLinkID": "488918706032312581244677",
+      "Jersey": 64,
+      "Name": "KAUSAS Artturi",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 64,
+      "SuffererNames": "KAUSAS Artturi",
+      "PenaltyReasonsFI": "Sääntöjen vastainen taklaus",
+      "PenaltyReasonsEN": "Illegal Hit",
+      "PenaltyFaultCodes": 36,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "TAK",
+      "Key": "Penalty_91"
+    },
+    {
+      "Type": "Goal",
+      "TeamId": 1368626118,
+      "Period": 3,
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2019,
+      "Key": "Goal_119",
+      "ScorerLinkID": "547915806029597814661377",
+      "Ass1LinkID": "",
+      "Ass2LinkID": "",
+      "ScorerJersey": 35,
+      "ScorerName": "TAPIO Peik",
+      "FirstAssistJersey": 0,
+      "FirstAssistName": " ",
+      "SecondAssistJersey": 0,
+      "SecondAssistName": " ",
+      "GoalType": "",
+      "GoalSpecialTypeFI": "",
+      "GoalSpecialTypeEN": "",
+      "HomeTeamGoals": 0,
+      "AwayTeamGoals": 4,
+      "Plus": "",
+      "Minus": ""
+    },
+    {
+      "Type": "Penalty",
+      "TeamId": 1368626054,
+      "Period": 3,
+      "PlayerLinkID": "876375106039920420628853",
+      "PreviousPlayerLinkID": null,
+      "PreviousGoalkeeperJersey": null,
+      "GameTime": 2117,
+      "SufferLinkID": "100622426039920442900786",
+      "Jersey": 8,
+      "Name": "LÄTTI Urho",
+      "PenaltyMinutes": "02:00 min",
+      "PenaltyMinutesNumber": 2,
+      "SuffererJersey": 8,
+      "SuffererNames": "LÄTTI Urho",
+      "PenaltyReasonsFI": "Estäminen",
+      "PenaltyReasonsEN": "Interference on Skater",
+      "PenaltyFaultCodes": 17,
+      "PenaltyLField": "",
+      "PenaltyReasonsAbbreviation": "EST",
+      "Key": "Penalty_123"
+    },
+    {
+      "Type": "GK_change",
+      "TeamId": 1368626054,
+      "Period": 3,
+      "PlayerLinkID": "4607634410004300863112876",
+      "GoalkeeperJersey": 35,
+      "GoalkeeperName": "STRÖMDAHL Max",
+      "PreviousPlayerLinkID": "592206436047458585777216",
+      "PreviousGoalkeeperJersey": 1,
+      "PreviousGoalkeeperName": "TAPANILA Olavi",
+      "GameTime": 2350
+    }
+  ],
+  "WinningShots": [],
+  "Referees": [
+    {
+      "RefereeRole": "Erotuomari",
+      "RefereeName": "AUTIO Niilo"
+    },
+    {
+      "RefereeRole": "Erotuomari",
+      "RefereeName": "JALONEN Fanny"
+    }
+  ],
+  "PeriodSummary": {
+    "PlayedPeriods": 3,
+    "PeriodGoals": [
+      {
+        "Goals": "0-1"
+      },
+      {
+        "Goals": "0-2"
+      },
+      {
+        "Goals": "0-1"
+      },
+      {
+        "Goals": "0-4"
+      }
+    ],
+    "PeriodSaves": [
+      {
+        "Saves": "6-4"
+      },
+      {
+        "Saves": "17-4"
+      },
+      {
+        "Saves": "9-8"
+      },
+      {
+        "Saves": "32-16"
+      }
+    ],
+    "PeriodPenMins": [
+      {
+        "PenMins": "2-2"
+      },
+      {
+        "PenMins": "6-2"
+      },
+      {
+        "PenMins": "2-0"
+      },
+      {
+        "PenMins": "10-4"
+      }
+    ],
+    "PeriodPPMins": [
+      {
+        "PPMins": "02:00-02:00"
+      },
+      {
+        "PPMins": "02:00-04:25"
+      },
+      {
+        "PPMins": "00:00-03:35"
+      },
+      {
+        "PPMins": "04:00-10:00"
+      }
+    ],
+    "PeriodPPGoals": [
+      {
+        "PPGoals": "0-0"
+      },
+      {
+        "PPGoals": "0-0"
+      },
+      {
+        "PPGoals": "0-0"
+      },
+      {
+        "PPGoals": "0-0"
+      }
+    ],
+    "PeriodSHGoals": [
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-0"
+      },
+      {
+        "SHGoals": "0-0"
+      }
+    ]
+  },
+  "GoalkeeperSummary": [
+    {
+      "TeamName": "K-Espoo EPS I",
+      "TeamGoalkeepers": [
+        {
+          "GkName": "TAPANILA Olavi",
+          "GkJersey": 1,
+          "PlayerLinkID": "171267126047458585800757",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 6
+            },
+            {
+              "Period": 2,
+              "Saves": 17
+            },
+            {
+              "Period": 3,
+              "Saves": 7
+            },
+            {
+              "Period": 0,
+              "Saves": 30
+            }
+          ],
+          "GkChanges": [
+            {
+              "Time": "39:10 0-4"
+            }
+          ],
+          "GkOut": []
+        },
+        {
+          "GkName": "STRÖMDAHL Max",
+          "GkJersey": 35,
+          "PlayerLinkID": "7944723910004300813158911",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 0
+            },
+            {
+              "Period": 2,
+              "Saves": 0
+            },
+            {
+              "Period": 3,
+              "Saves": 2
+            },
+            {
+              "Period": 0,
+              "Saves": 2
+            }
+          ],
+          "GkChanges": [],
+          "GkOut": []
+        }
+      ]
+    },
+    {
+      "TeamName": "Jokerit Valkoinen",
+      "TeamGoalkeepers": [
+        {
+          "GkName": "SAKSA Mio",
+          "GkJersey": 30,
+          "PlayerLinkID": "859695076043611194128604",
+          "GkSaves": [
+            {
+              "Period": 1,
+              "Saves": 4
+            },
+            {
+              "Period": 2,
+              "Saves": 4
+            },
+            {
+              "Period": 3,
+              "Saves": 8
+            },
+            {
+              "Period": 0,
+              "Saves": 16
+            }
+          ],
+          "GkChanges": [],
+          "GkOut": []
+        }
+      ]
+    }
+  ],
+  "UsersInfo": [],
+  "GameSettings": {
+    "playerDetails": false,
+    "playerStatistics": true,
+    "goalieStatistics": true,
+    "teamStatistics": true
+  }
+}

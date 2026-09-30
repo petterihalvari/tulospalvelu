@@ -1,0 +1,84 @@
+{
+  "person_id": 93272,
+  "name": "ULANOV Artjom",
+  "first_name": "Artjom",
+  "last_name": "ULANOV",
+  "player_ids": [
+    60785710
+  ],
+  "link_ids": [
+    "797756346078571052896487",
+    "965454146078571053946560"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2707397,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368627446,
+      "team": "Vipers",
+      "opponent_id": 1368625265,
+      "opponent": "K-Kissat",
+      "home_away": "away",
+      "jersey_number": "29",
+      "role": "Puolustaja",
+      "role_abbrv": "P",
+      "captain": ""
+    },
+    {
+      "game_id": 2707400,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368627446,
+      "team": "Vipers",
+      "opponent_id": 1368625355,
+      "opponent": "Jokerit",
+      "home_away": "away",
+      "jersey_number": "29",
+      "role": "Puolustaja",
+      "role_abbrv": "P",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2707397,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 93,
+      "series": "U15 Sininen",
+      "subserie_id": 1476,
+      "subserie": "U15 Sininen alkusarja, lohko 1",
+      "team_id": 1368627446,
+      "team": "Vipers",
+      "opponent": "K-Kissat",
+      "game_label": "K-Kissat - Vipers",
+      "period": 3,
+      "game_time": "59:47",
+      "raw_event_index": 15,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Estäminen"
+    }
+  ]
+}

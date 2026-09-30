@@ -1,0 +1,111 @@
+{
+  "person_id": 92229,
+  "name": "KOLLIN Iivari",
+  "first_name": "Iivari",
+  "last_name": "KOLLIN",
+  "player_ids": [
+    100037907
+  ],
+  "link_ids": [
+    "8242950110003790776069285"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 3,
+    "assists": 0,
+    "points": 3,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713732,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625827,
+      "team": "HAKI White",
+      "opponent_id": 1368630127,
+      "opponent": "Peliitat",
+      "home_away": "away",
+      "jersey_number": "6",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713732,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625827,
+      "team": "HAKI White",
+      "opponent": "Peliitat",
+      "game_label": "Peliitat - HAKI White",
+      "period": 2,
+      "game_time": "29:53",
+      "raw_event_index": 8,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    },
+    {
+      "game_id": 2713732,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625827,
+      "team": "HAKI White",
+      "opponent": "Peliitat",
+      "game_label": "Peliitat - HAKI White",
+      "period": 2,
+      "game_time": "34:23",
+      "raw_event_index": 10,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    },
+    {
+      "game_id": 2713732,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625827,
+      "team": "HAKI White",
+      "opponent": "Peliitat",
+      "game_label": "Peliitat - HAKI White",
+      "period": 3,
+      "game_time": "56:13",
+      "raw_event_index": 14,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

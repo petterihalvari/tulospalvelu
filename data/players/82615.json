@@ -1,0 +1,103 @@
+{
+  "person_id": 82615,
+  "name": "HELANDER Rafu",
+  "first_name": "Rafu",
+  "last_name": "HELANDER",
+  "player_ids": [
+    100044473
+  ],
+  "link_ids": [
+    "5067680210004447384435118",
+    "8354940410004447337879855",
+    "9453202410004447321163844"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710072,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630091,
+      "team": "HYRI Black",
+      "opponent_id": 1368626071,
+      "opponent": "HJK Blue",
+      "home_away": "home",
+      "jersey_number": "20",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2710052,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630091,
+      "team": "HYRI Black",
+      "opponent_id": 1368626617,
+      "opponent": "K-Kissat Kissat",
+      "home_away": "home",
+      "jersey_number": "20",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707352,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368630090,
+      "team": "HYRI",
+      "opponent_id": 1368626200,
+      "opponent": "HIFK White",
+      "home_away": "away",
+      "jersey_number": "48",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710072,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630091,
+      "team": "HYRI Black",
+      "opponent": "HJK Blue",
+      "game_label": "HYRI Black - HJK Blue",
+      "period": 2,
+      "game_time": "16:15",
+      "raw_event_index": 7,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "first_assist",
+      "role_label": "1. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

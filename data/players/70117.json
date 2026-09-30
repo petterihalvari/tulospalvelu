@@ -1,0 +1,98 @@
+{
+  "person_id": 70117,
+  "name": "MARTIKAINEN Eeti",
+  "first_name": "Eeti",
+  "last_name": "MARTIKAINEN",
+  "player_ids": [
+    60439610
+  ],
+  "link_ids": [
+    "512637046043961066729642",
+    "626975226043961035121169",
+    "700183846043961020351787",
+    "807681076043961018639118"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2706297,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368624961,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 1368625330,
+      "opponent": "GrIFK Green",
+      "home_away": "home",
+      "jersey_number": "41",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706314,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368624961,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 1368629968,
+      "opponent": "K-Kissat Ak",
+      "home_away": "home",
+      "jersey_number": "41",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706278,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368624961,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 1368629968,
+      "opponent": "K-Kissat Ak",
+      "home_away": "away",
+      "jersey_number": "41",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706292,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 1925,
+      "subserie": "U15 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368624961,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 1368625548,
+      "opponent": "K-Espoo IV",
+      "home_away": "away",
+      "jersey_number": "41",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

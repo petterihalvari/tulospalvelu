@@ -1,0 +1,41 @@
+{
+  "person_id": 68587,
+  "name": "LAKKISTO Julius",
+  "first_name": "Julius",
+  "last_name": "LAKKISTO",
+  "player_ids": [
+    100026124
+  ],
+  "link_ids": [
+    "8424858710002612467993333"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721408,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1368624672,
+      "team": "K-Vantaa Akatemia",
+      "opponent_id": 1273481056,
+      "opponent": "K-Espoo IV",
+      "home_away": "home",
+      "jersey_number": "24",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

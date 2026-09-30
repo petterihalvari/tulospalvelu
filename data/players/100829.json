@@ -1,0 +1,98 @@
+{
+  "person_id": 100829,
+  "name": "ROOS Elis",
+  "first_name": "Elis",
+  "last_name": "ROOS",
+  "player_ids": [
+    60625896
+  ],
+  "link_ids": [
+    "266839396062589620626990",
+    "525727946062589676322434",
+    "572075526062589684270531",
+    "812885206062589683425932"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710108,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent_id": 1368626061,
+      "opponent": "K-Espoo Blues II",
+      "home_away": "away",
+      "jersey_number": "15",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710125,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent_id": 1368628244,
+      "opponent": "KJT Haukat White",
+      "home_away": "away",
+      "jersey_number": "15",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710117,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent_id": 1368626067,
+      "opponent": "Viikingit White",
+      "home_away": "home",
+      "jersey_number": "15",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710129,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368625985,
+      "team": "Ice Team",
+      "opponent_id": 1368626032,
+      "opponent": "GrIFK White",
+      "home_away": "home",
+      "jersey_number": "15",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

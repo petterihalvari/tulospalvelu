@@ -1,0 +1,103 @@
+{
+  "person_id": 70550,
+  "name": "PRÄHKY Pihla",
+  "first_name": "Pihla",
+  "last_name": "PRÄHKY",
+  "player_ids": [
+    40444645
+  ],
+  "link_ids": [
+    "144203384044464531335605",
+    "457722454044464595423300",
+    "877123674044464573863160"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721434,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1305455999,
+      "team": "HJK Akatemia",
+      "opponent_id": 65632771,
+      "opponent": "Hunters",
+      "home_away": "home",
+      "jersey_number": "31",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": "A"
+    },
+    {
+      "game_id": 2721415,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1305455999,
+      "team": "HJK Akatemia",
+      "opponent_id": 1368624637,
+      "opponent": "Viikingit",
+      "home_away": "home",
+      "jersey_number": "31",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": "A"
+    },
+    {
+      "game_id": 2721448,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1305455999,
+      "team": "HJK Akatemia",
+      "opponent_id": 1368179706,
+      "opponent": "LJK",
+      "home_away": "home",
+      "jersey_number": "31",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": "A"
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2721415,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 1305455999,
+      "team": "HJK Akatemia",
+      "opponent": "Viikingit",
+      "game_label": "HJK Akatemia - Viikingit",
+      "period": 1,
+      "game_time": "13:11",
+      "raw_event_index": 3,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "second_assist",
+      "role_label": "2. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

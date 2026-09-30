@@ -1,0 +1,98 @@
+{
+  "person_id": 79631,
+  "name": "ALHORANTA Max",
+  "first_name": "Max",
+  "last_name": "ALHORANTA",
+  "player_ids": [
+    60456739
+  ],
+  "link_ids": [
+    "177057056045673971089988",
+    "399855936045673933998804",
+    "445970896045673946961078",
+    "545877556045673987858801"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707366,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368626031,
+      "team": "GrIFK Green",
+      "opponent_id": 1368625993,
+      "opponent": "K-Kissat Bears",
+      "home_away": "home",
+      "jersey_number": "53",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707325,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368626031,
+      "team": "GrIFK Green",
+      "opponent_id": 1368630090,
+      "opponent": "HYRI",
+      "home_away": "away",
+      "jersey_number": "53",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707345,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368626031,
+      "team": "GrIFK Green",
+      "opponent_id": 1368626200,
+      "opponent": "HIFK White",
+      "home_away": "home",
+      "jersey_number": "53",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707357,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368626031,
+      "team": "GrIFK Green",
+      "opponent_id": 1368625973,
+      "opponent": "EVU Red",
+      "home_away": "away",
+      "jersey_number": "53",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

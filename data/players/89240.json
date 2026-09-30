@@ -1,0 +1,122 @@
+{
+  "person_id": 89240,
+  "name": "SUVES Vili",
+  "first_name": "Vili",
+  "last_name": "SUVES",
+  "player_ids": [
+    100043033
+  ],
+  "link_ids": [
+    "1226038710004303375623178",
+    "1637312210004303385527048",
+    "4818227410004303365953928",
+    "4961268710004303375981220"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2713718,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368629992,
+      "opponent": "Hunters",
+      "home_away": "home",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713722,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713729,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368630127,
+      "opponent": "Peliitat",
+      "home_away": "home",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710076,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent_id": 1368628244,
+      "opponent": "KJT Haukat White",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713718,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent": "Hunters",
+      "game_label": "K-Espoo V - Hunters",
+      "period": 1,
+      "game_time": "03:12",
+      "raw_event_index": 2,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Pelin viivyttäminen"
+    }
+  ]
+}

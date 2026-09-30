@@ -1,0 +1,103 @@
+{
+  "person_id": 90362,
+  "name": "AHVENAINEN Lukas",
+  "first_name": "Lukas",
+  "last_name": "AHVENAINEN",
+  "player_ids": [
+    100041936
+  ],
+  "link_ids": [
+    "3838994910004193667741195",
+    "4244378510004193666878231",
+    "7309311310004193650441972"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713716,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368630097,
+      "opponent": "K-Tiikerit Oranssi",
+      "home_away": "home",
+      "jersey_number": "74",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2713722,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "away",
+      "jersey_number": "74",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    },
+    {
+      "game_id": 2713724,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent_id": 1368630007,
+      "opponent": "Ice Force Gold",
+      "home_away": "away",
+      "jersey_number": "74",
+      "role": "Hyökkääjä",
+      "role_abbrv": "H",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2713722,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368625523,
+      "team": "K-Espoo V",
+      "opponent": "KJT Haukat Black",
+      "game_label": "KJT Haukat Black - K-Espoo V",
+      "period": 3,
+      "game_time": "44:48",
+      "raw_event_index": 13,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "second_assist",
+      "role_label": "2. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

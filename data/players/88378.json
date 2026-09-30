@@ -1,0 +1,98 @@
+{
+  "person_id": 88378,
+  "name": "LAAKSONEN Veikka",
+  "first_name": "Veikka",
+  "last_name": "LAAKSONEN",
+  "player_ids": [
+    100039982
+  ],
+  "link_ids": [
+    "1020830310003998242297801",
+    "5861178010003998264565499",
+    "6990205510003998279420018",
+    "7919042110003998227860922"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710108,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent_id": 1368625985,
+      "opponent": "Ice Team",
+      "home_away": "home",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": "A"
+    },
+    {
+      "game_id": 2707295,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 1512,
+      "subserie": "U14 Sininen alkusarja, lohko 1a",
+      "team_id": 1368626060,
+      "team": "K-Espoo Blues I",
+      "opponent_id": 1368626070,
+      "opponent": "HJK White",
+      "home_away": "home",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": "A"
+    },
+    {
+      "game_id": 2707298,
+      "date": "11.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 1512,
+      "subserie": "U14 Sininen alkusarja, lohko 1a",
+      "team_id": 1368626060,
+      "team": "K-Espoo Blues I",
+      "opponent_id": 1368625484,
+      "opponent": "Viikingit Red",
+      "home_away": "away",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707278,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 1512,
+      "subserie": "U14 Sininen alkusarja, lohko 1a",
+      "team_id": 1368626060,
+      "team": "K-Espoo Blues I",
+      "opponent_id": 1368626199,
+      "opponent": "HIFK Red",
+      "home_away": "home",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

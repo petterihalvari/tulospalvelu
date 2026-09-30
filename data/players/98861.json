@@ -1,0 +1,98 @@
+{
+  "person_id": 98861,
+  "name": "HARI Oliver",
+  "first_name": "Oliver",
+  "last_name": "HARI",
+  "player_ids": [
+    60430606
+  ],
+  "link_ids": [
+    "357491776043060691770379",
+    "544561526043060669554936",
+    "582817286043060684790451",
+    "938655606043060621466945"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2706331,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368624664,
+      "team": "HJK white",
+      "opponent_id": 1368625648,
+      "opponent": "K-Espoo III",
+      "home_away": "home",
+      "jersey_number": "44",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706359,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368624664,
+      "team": "HJK white",
+      "opponent_id": 1368624657,
+      "opponent": "K-Tiikerit Musta",
+      "home_away": "away",
+      "jersey_number": "44",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2714191,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368624664,
+      "team": "HJK white",
+      "opponent_id": 1368627457,
+      "opponent": "KJT Haukat Orange",
+      "home_away": "away",
+      "jersey_number": "44",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2706371,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368624664,
+      "team": "HJK white",
+      "opponent_id": 1368630079,
+      "opponent": "K-Espoo Tytöt IV",
+      "home_away": "home",
+      "jersey_number": "44",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

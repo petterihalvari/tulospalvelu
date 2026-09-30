@@ -1,0 +1,79 @@
+{
+  "person_id": 85190,
+  "name": "LAURILA Miko",
+  "first_name": "Miko",
+  "last_name": "LAURILA",
+  "player_ids": [
+    100041972
+  ],
+  "link_ids": [
+    "2066943010004197264514563",
+    "6029981810004197224774982",
+    "6228427810004197264662628"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707294,
+      "date": "07.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 1512,
+      "subserie": "U14 Sininen alkusarja, lohko 1a",
+      "team_id": 1368626050,
+      "team": "K-Espoo EKS I",
+      "opponent_id": 1368625484,
+      "opponent": "Viikingit Red",
+      "home_away": "home",
+      "jersey_number": "44",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710128,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626052,
+      "team": "K-Espoo EKS III",
+      "opponent_id": 1368626061,
+      "opponent": "K-Espoo Blues II",
+      "home_away": "away",
+      "jersey_number": "44",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710119,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626052,
+      "team": "K-Espoo EKS III",
+      "opponent_id": 1368626055,
+      "opponent": "K-Espoo EPS II",
+      "home_away": "home",
+      "jersey_number": "44",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,41 @@
+{
+  "person_id": 80033,
+  "name": "PYLVÄS Luukas",
+  "first_name": "Luukas",
+  "last_name": "PYLVÄS",
+  "player_ids": [
+    40462650
+  ],
+  "link_ids": [
+    "305520134046265070923910"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721439,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 752932062,
+      "team": "KooKoo Team / IiHoo",
+      "opponent_id": 1368624672,
+      "opponent": "K-Vantaa Akatemia",
+      "home_away": "away",
+      "jersey_number": "62",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

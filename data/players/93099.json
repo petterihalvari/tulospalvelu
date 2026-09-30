@@ -1,0 +1,98 @@
+{
+  "person_id": 93099,
+  "name": "BRÜCKLER Philip",
+  "first_name": "Philip",
+  "last_name": "BRÜCKLER",
+  "player_ids": [
+    60548230
+  ],
+  "link_ids": [
+    "479941116054823095703957",
+    "480871326054823017500997",
+    "907854876054823084595774",
+    "999717306054823086331142"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710108,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent_id": 1368625985,
+      "opponent": "Ice Team",
+      "home_away": "home",
+      "jersey_number": "30",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710128,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent_id": 1368626052,
+      "opponent": "K-Espoo EKS III",
+      "home_away": "home",
+      "jersey_number": "30",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2714196,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent_id": 1368625975,
+      "opponent": "EVU White",
+      "home_away": "home",
+      "jersey_number": "30",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710105,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent_id": 1368626067,
+      "opponent": "Viikingit White",
+      "home_away": "away",
+      "jersey_number": "30",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

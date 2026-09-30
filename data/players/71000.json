@@ -1,0 +1,41 @@
+{
+  "person_id": 71000,
+  "name": "NIINIKOSKI Eevert",
+  "first_name": "Eevert",
+  "last_name": "NIINIKOSKI",
+  "player_ids": [
+    60396737
+  ],
+  "link_ids": [
+    "250933546039673787561380"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710098,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368628244,
+      "team": "KJT Haukat White",
+      "opponent_id": 1368625975,
+      "opponent": "EVU White",
+      "home_away": "away",
+      "jersey_number": "34",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,60 @@
+{
+  "person_id": 86826,
+  "name": "MATILAINEN Miklas",
+  "first_name": "Miklas",
+  "last_name": "MATILAINEN",
+  "player_ids": [
+    60478517
+  ],
+  "link_ids": [
+    "530194036047851763155489",
+    "973040726047851792488848"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710075,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626052,
+      "team": "K-Espoo EKS III",
+      "opponent_id": 1368626032,
+      "opponent": "GrIFK White",
+      "home_away": "away",
+      "jersey_number": "24",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710027,
+      "date": "21.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368626051,
+      "team": "K-Espoo EKS II",
+      "opponent_id": 1368626071,
+      "opponent": "HJK Blue",
+      "home_away": "home",
+      "jersey_number": "24",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

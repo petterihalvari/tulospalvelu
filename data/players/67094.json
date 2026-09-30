@@ -1,0 +1,79 @@
+{
+  "person_id": 67094,
+  "name": "KOIVISTO Mikael",
+  "first_name": "Mikael",
+  "last_name": "KOIVISTO",
+  "player_ids": [
+    100040036
+  ],
+  "link_ids": [
+    "1861229710004003682301189",
+    "3698457410004003683968333",
+    "5920237810004003630321416"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721434,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 65632771,
+      "team": "Hunters",
+      "opponent_id": 1305455999,
+      "opponent": "HJK Akatemia",
+      "home_away": "away",
+      "jersey_number": "31",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2721422,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 65632771,
+      "team": "Hunters",
+      "opponent_id": 1273481056,
+      "opponent": "K-Espoo IV",
+      "home_away": "away",
+      "jersey_number": "31",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2721458,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 65632771,
+      "team": "Hunters",
+      "opponent_id": 830051270,
+      "opponent": "K-Tiikerit",
+      "home_away": "away",
+      "jersey_number": "31",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

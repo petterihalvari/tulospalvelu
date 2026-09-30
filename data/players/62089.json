@@ -1,0 +1,79 @@
+{
+  "person_id": 62089,
+  "name": "LATTU Tuukka",
+  "first_name": "Tuukka",
+  "last_name": "LATTU",
+  "player_ids": [
+    60365284
+  ],
+  "link_ids": [
+    "100518076036528466157458",
+    "326136086036528446527537",
+    "378690616036528436088117"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2713721,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368630097,
+      "team": "K-Tiikerit Oranssi",
+      "opponent_id": 1368630127,
+      "opponent": "Peliitat",
+      "home_away": "away",
+      "jersey_number": "7",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713730,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368630097,
+      "team": "K-Tiikerit Oranssi",
+      "opponent_id": 1368630007,
+      "opponent": "Ice Force Gold",
+      "home_away": "home",
+      "jersey_number": "7",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2713734,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 95,
+      "series": "U15 Keltainen",
+      "subserie_id": 3587,
+      "subserie": "U15 Keltainen alkusarja, lohko 1",
+      "team_id": 1368630097,
+      "team": "K-Tiikerit Oranssi",
+      "opponent_id": 1368627458,
+      "opponent": "KJT Haukat Black",
+      "home_away": "home",
+      "jersey_number": "7",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

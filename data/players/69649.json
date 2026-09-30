@@ -1,0 +1,98 @@
+{
+  "person_id": 69649,
+  "name": "ITÄVAINIO Miro",
+  "first_name": "Miro",
+  "last_name": "ITÄVAINIO",
+  "player_ids": [
+    100030522
+  ],
+  "link_ids": [
+    "3699698710003052215662673",
+    "4157337710003052231052248",
+    "5495661710003052217449221",
+    "9833811510003052245638455"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721407,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 752932062,
+      "team": "KooKoo Team / IiHoo",
+      "opponent_id": 1368621356,
+      "opponent": "K-Espoo III",
+      "home_away": "home",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2721426,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 752932062,
+      "team": "KooKoo Team / IiHoo",
+      "opponent_id": 1305455999,
+      "opponent": "HJK Akatemia",
+      "home_away": "away",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2721420,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 752932062,
+      "team": "KooKoo Team / IiHoo",
+      "opponent_id": 757585531,
+      "opponent": "HAKI",
+      "home_away": "home",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2721433,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 752932062,
+      "team": "KooKoo Team / IiHoo",
+      "opponent_id": 1368624637,
+      "opponent": "Viikingit",
+      "home_away": "home",
+      "jersey_number": "1",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

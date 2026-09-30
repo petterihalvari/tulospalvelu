@@ -1,0 +1,84 @@
+{
+  "person_id": 87052,
+  "name": "ROUVALI Kimi",
+  "first_name": "Kimi",
+  "last_name": "ROUVALI",
+  "player_ids": [
+    100047271
+  ],
+  "link_ids": [
+    "6655499910004727126298421",
+    "9002261610004727167047917"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710072,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630091,
+      "team": "HYRI Black",
+      "opponent_id": 1368626071,
+      "opponent": "HJK Blue",
+      "home_away": "home",
+      "jersey_number": "31",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    },
+    {
+      "game_id": 2710052,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630091,
+      "team": "HYRI Black",
+      "opponent_id": 1368626617,
+      "opponent": "K-Kissat Kissat",
+      "home_away": "home",
+      "jersey_number": "31",
+      "role": "Maalivahti",
+      "role_abbrv": "MV",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710052,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 1513,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1a",
+      "team_id": 1368630091,
+      "team": "HYRI Black",
+      "opponent": "K-Kissat Kissat",
+      "game_label": "HYRI Black - K-Kissat Kissat",
+      "period": 2,
+      "game_time": "24:03",
+      "raw_event_index": 7,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "second_assist",
+      "role_label": "2. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

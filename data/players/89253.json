@@ -1,0 +1,88 @@
+{
+  "person_id": 89253,
+  "name": "KOHTAMÄKI Alexander",
+  "first_name": "Alexander",
+  "last_name": "KOHTAMÄKI",
+  "player_ids": [
+    100043038
+  ],
+  "link_ids": [
+    "7647586310004303889454104"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 1,
+    "assists": 1,
+    "points": 2,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2710076,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent_id": 1368628244,
+      "opponent": "KJT Haukat White",
+      "home_away": "away",
+      "jersey_number": "54",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2710076,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent": "KJT Haukat White",
+      "game_label": "KJT Haukat White - K-Espoo Blues II",
+      "period": 2,
+      "game_time": "21:17",
+      "raw_event_index": 8,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "first_assist",
+      "role_label": "1. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    },
+    {
+      "game_id": 2710076,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 98,
+      "series": "U14 Valkoinen",
+      "subserie_id": 3959,
+      "subserie": "U14 Valkoinen alkusarja, lohko 1b",
+      "team_id": 1368626061,
+      "team": "K-Espoo Blues II",
+      "opponent": "KJT Haukat White",
+      "game_label": "KJT Haukat White - K-Espoo Blues II",
+      "period": 3,
+      "game_time": "35:47",
+      "raw_event_index": 13,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

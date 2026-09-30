@@ -1,0 +1,84 @@
+{
+  "person_id": 80608,
+  "name": "HELKAMA Aaro",
+  "first_name": "Aaro",
+  "last_name": "HELKAMA",
+  "player_ids": [
+    100029410
+  ],
+  "link_ids": [
+    "8599007110002941083469411",
+    "9494066710002941016032125"
+  ],
+  "summary": {
+    "games": 2,
+    "goals": 0,
+    "assists": 1,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721414,
+      "date": "10.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 757585531,
+      "team": "HAKI",
+      "opponent_id": 1368624672,
+      "opponent": "K-Vantaa Akatemia",
+      "home_away": "home",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721435,
+      "date": "13.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 757585531,
+      "team": "HAKI",
+      "opponent_id": 1368628821,
+      "opponent": "Ice Force",
+      "home_away": "home",
+      "jersey_number": "22",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2721414,
+      "date": "10.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 757585531,
+      "team": "HAKI",
+      "opponent": "K-Vantaa Akatemia",
+      "game_label": "HAKI - K-Vantaa Akatemia",
+      "period": 1,
+      "game_time": "01:15",
+      "raw_event_index": 2,
+      "event_type": "assist",
+      "event_label": "Syöttö",
+      "role": "second_assist",
+      "role_label": "2. syöttäjä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

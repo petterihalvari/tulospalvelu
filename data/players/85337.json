@@ -1,0 +1,122 @@
+{
+  "person_id": 85337,
+  "name": "LEINONEN Aada",
+  "first_name": "Aada",
+  "last_name": "LEINONEN",
+  "player_ids": [
+    40466960
+  ],
+  "link_ids": [
+    "372596884046696059491628",
+    "421873784046696057416327",
+    "655400664046696021154335",
+    "873553504046696043179038"
+  ],
+  "summary": {
+    "games": 4,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 1,
+    "penalty_minutes": 2
+  },
+  "appearances": [
+    {
+      "game_id": 2714189,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368627457,
+      "team": "KJT Haukat Orange",
+      "opponent_id": 1368625658,
+      "opponent": "Kurra Musta",
+      "home_away": "away",
+      "jersey_number": "36",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2706353,
+      "date": "06.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368627457,
+      "team": "KJT Haukat Orange",
+      "opponent_id": 1368630079,
+      "opponent": "K-Espoo Tytöt IV",
+      "home_away": "home",
+      "jersey_number": "36",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2706348,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368627457,
+      "team": "KJT Haukat Orange",
+      "opponent_id": 1368625648,
+      "opponent": "K-Espoo III",
+      "home_away": "away",
+      "jersey_number": "36",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2714191,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368627457,
+      "team": "KJT Haukat Orange",
+      "opponent_id": 1368624664,
+      "opponent": "HJK white",
+      "home_away": "home",
+      "jersey_number": "36",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2714189,
+      "date": "05.09.2026",
+      "season": null,
+      "level_id": 94,
+      "series": "U15 Valkoinen",
+      "subserie_id": 5182,
+      "subserie": "U15 Valkoinen alkusarja, Lohko 1b",
+      "team_id": 1368627457,
+      "team": "KJT Haukat Orange",
+      "opponent": "Kurra Musta",
+      "game_label": "Kurra Musta - KJT Haukat Orange",
+      "period": 2,
+      "game_time": "37:51",
+      "raw_event_index": 16,
+      "event_type": "penalty",
+      "event_label": "Rangaistus",
+      "role": "penalized_player",
+      "role_label": "Rangaistu pelaaja",
+      "score": "",
+      "penalty_minutes": 2,
+      "penalty_reason": "Mailasta kiinnipitäminen"
+    }
+  ]
+}

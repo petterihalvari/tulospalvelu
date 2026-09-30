@@ -1,0 +1,103 @@
+{
+  "person_id": 79061,
+  "name": "TERVONEN Wilhelm",
+  "first_name": "Wilhelm",
+  "last_name": "TERVONEN",
+  "player_ids": [
+    100037321
+  ],
+  "link_ids": [
+    "6744205010003732185849050",
+    "7670284510003732142811769",
+    "8905237010003732167296265"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707318,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628243,
+      "team": "KJT Haukat Blue",
+      "opponent_id": 1368625993,
+      "opponent": "K-Kissat Bears",
+      "home_away": "home",
+      "jersey_number": "54",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707315,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628243,
+      "team": "KJT Haukat Blue",
+      "opponent_id": 1368628293,
+      "opponent": "Vipers",
+      "home_away": "home",
+      "jersey_number": "54",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2707347,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628243,
+      "team": "KJT Haukat Blue",
+      "opponent_id": 1368630090,
+      "opponent": "HYRI",
+      "home_away": "home",
+      "jersey_number": "54",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2707347,
+      "date": "27.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 4906,
+      "subserie": "U14 Sininen alkusarja, lohko 1b",
+      "team_id": 1368628243,
+      "team": "KJT Haukat Blue",
+      "opponent": "HYRI",
+      "game_label": "KJT Haukat Blue - HYRI",
+      "period": 1,
+      "game_time": "10:56",
+      "raw_event_index": 5,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}

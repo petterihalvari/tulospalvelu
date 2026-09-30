@@ -1,0 +1,79 @@
+{
+  "person_id": 126665,
+  "name": "SIHVONEN Joonatan",
+  "first_name": "Joonatan",
+  "last_name": "SIHVONEN",
+  "player_ids": [
+    60433888
+  ],
+  "link_ids": [
+    "252425406043388862858381",
+    "700057246043388883385960",
+    "944871816043388898351593"
+  ],
+  "summary": {
+    "games": 3,
+    "goals": 0,
+    "assists": 0,
+    "points": 0,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2721407,
+      "date": "12.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 752932062,
+      "team": "KooKoo Team / IiHoo",
+      "opponent_id": 1368621356,
+      "opponent": "K-Espoo III",
+      "home_away": "home",
+      "jersey_number": "16",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721420,
+      "date": "19.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 752932062,
+      "team": "KooKoo Team / IiHoo",
+      "opponent_id": 757585531,
+      "opponent": "HAKI",
+      "home_away": "home",
+      "jersey_number": "16",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    },
+    {
+      "game_id": 2721433,
+      "date": "20.09.2026",
+      "season": null,
+      "level_id": 90,
+      "series": "U16 Suomi-sarja",
+      "subserie_id": 3289,
+      "subserie": "U16 Suomi-sarja, karsintasarja, lohko 1",
+      "team_id": 752932062,
+      "team": "KooKoo Team / IiHoo",
+      "opponent_id": 1368624637,
+      "opponent": "Viikingit",
+      "home_away": "home",
+      "jersey_number": "16",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": []
+}

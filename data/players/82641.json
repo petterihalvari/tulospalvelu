@@ -1,0 +1,65 @@
+{
+  "person_id": 82641,
+  "name": "LATVALA Anton",
+  "first_name": "Anton",
+  "last_name": "LATVALA",
+  "player_ids": [
+    60398950
+  ],
+  "link_ids": [
+    "675705516039895048003605"
+  ],
+  "summary": {
+    "games": 1,
+    "goals": 1,
+    "assists": 0,
+    "points": 1,
+    "penalties": 0,
+    "penalty_minutes": 0
+  },
+  "appearances": [
+    {
+      "game_id": 2707278,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 1512,
+      "subserie": "U14 Sininen alkusarja, lohko 1a",
+      "team_id": 1368626199,
+      "team": "HIFK Red",
+      "opponent_id": 1368626060,
+      "opponent": "K-Espoo Blues I",
+      "home_away": "away",
+      "jersey_number": "13",
+      "role": "Kenttäpelaaja",
+      "role_abbrv": "KP",
+      "captain": ""
+    }
+  ],
+  "events": [
+    {
+      "game_id": 2707278,
+      "date": "26.09.2026",
+      "season": null,
+      "level_id": 97,
+      "series": "U14 Sininen",
+      "subserie_id": 1512,
+      "subserie": "U14 Sininen alkusarja, lohko 1a",
+      "team_id": 1368626199,
+      "team": "HIFK Red",
+      "opponent": "K-Espoo Blues I",
+      "game_label": "K-Espoo Blues I - HIFK Red",
+      "period": 2,
+      "game_time": "27:04",
+      "raw_event_index": 12,
+      "event_type": "goal",
+      "event_label": "Maali",
+      "role": "scorer",
+      "role_label": "Maalintekijä",
+      "score": "",
+      "penalty_minutes": 0,
+      "penalty_reason": ""
+    }
+  ]
+}
